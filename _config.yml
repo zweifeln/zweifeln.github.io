@@ -18,7 +18,7 @@ podcast_description: Was genau ist Glaube?
 # Build settings
 markdown: kramdown
 
-gems: [jekyll-paginate-v2]
+gems: [jekyll-paginate]
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
