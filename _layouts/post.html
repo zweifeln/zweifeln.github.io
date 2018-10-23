@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+	<body>
+		{% include header.html %}
+		&nbsp;
+		<article>
+			<div class="grey">
+				<time>{{ page.date | date: "%Y-%m-%d" }}</time><br>
+				{% if page.author %} written by {{ page.author }}{% endif %}
+			</div>
+			<div class="headline">
+				<a href="{{ page.url }}">
+					<h2>{{ page.title }}</h2>
+				</a>
+			</div>
+		{{ content }}
+		</article>
+		{% include footer.html %}
+	</body>
+</html>
+
+
+
