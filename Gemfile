@@ -4,6 +4,6 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-gem "github-pages", "~> 192"
+gem "jekyll", ">3.5"
 
 gem "jekyll-paginate", "~> 1.1"
