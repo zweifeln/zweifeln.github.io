@@ -1,12 +1,11 @@
 ---
 title: "Personal"
 layout: default
-pagination:
-  enabled: true
-  category: personal
 ---
 <div class="center">
 	<h2>{{ page.title }}</h2>
 </div>
 
-{% include blog.html %}
+{% for post in site.categories.personal %}
+	{% include blog.html %}
+{% endfor %}

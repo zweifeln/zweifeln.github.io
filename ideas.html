@@ -1,12 +1,11 @@
 ---
 title: "Ideas"
 layout: default
-pagination:
-  enabled: true
-  category: ideas
 ---
 <div class="center">
 	<h2>{{ page.title }}</h2>
 </div>
 
-{% include blog.html %}
+{% for post in site.categories.ideas %}
+	{% include blog.html %}
+{% endfor %}

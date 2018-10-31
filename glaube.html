@@ -1,9 +1,6 @@
 ---
 title: "Podcast: Glaube mit Zweifeln"
 layout: default
-pagination:
-  enabled: true
-  category: glaube
 ---
 <div class="center">
 	<h2>{{ page.title }}</h2>
@@ -13,4 +10,6 @@ pagination:
 <a href="{{ site.url }}/gmz_feed">Podcast-Feed</a>
 </div>
 
-{% include blog.html %}
+{% for post in site.categories.glaube %}
+	{% include blog.html %}
+{% endfor %}
