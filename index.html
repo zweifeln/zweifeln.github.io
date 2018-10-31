@@ -4,5 +4,6 @@ layout: default
 pagination:
   enabled: true
 ---
-
-{% include blog.html %}
+{% for post in paginator.posts %}
+	{% include blog.html %}
+{% endfor %}
