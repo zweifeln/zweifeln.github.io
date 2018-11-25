@@ -7,7 +7,7 @@ podcast: Glaube mit Zweifeln
 podcast_url: /glaube
 podcast_description: Was genau ist Glaube?
 markdown: kramdown
-plugins: 
-  - jekyll-paginate
-    #paginate: 10
-    #paginate_path: "/page/:num/"
+#plugins: 
+# - jekyll-paginate
+#paginate: 10
+#paginate_path: "/page/:num/"
