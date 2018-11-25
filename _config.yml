@@ -11,7 +11,3 @@ plugins:
   - jekyll-paginate
 paginate: 10
 paginate_path: "/page/:num/"
-trail:
-  before: 2
-  after: 2
-
