@@ -9,5 +9,5 @@ podcast_description: Was genau ist Glaube?
 markdown: kramdown
 plugins: 
   - jekyll-paginate
-paginate: 10
-paginate_path: "/page/:num/"
+    #paginate: 10
+    #paginate_path: "/page/:num/"
