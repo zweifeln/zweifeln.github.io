@@ -1,0 +1,12 @@
+---
+title: "2018"
+layout: default
+---
+<div class="center">
+	<h2>{{ page.title }}</h2>
+</div>
+
+{% assign postsByYear =  site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+	{% include blog.html %}
+{% endfor %}
