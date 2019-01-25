@@ -1,7 +1,7 @@
 ---
 title: "„Öffentlichkeit“- auf dem Netzkongress der Grünen"
 layout: post
-categories: politics
+categories: [politics]
 ---
 Vor einer Woche habe ich über Hannah Arendt und den unterschied zwischen „Öffentlichkeit“ und mangelnder Privatsphäre gebloggt.
 

@@ -1,7 +1,7 @@
 ---
 title: "#Varoufake"
 layout: post
-categories: ideas, politics
+categories: [ideas, politics]
 ---
 
 <div class="video">

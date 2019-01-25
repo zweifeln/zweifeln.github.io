@@ -1,7 +1,7 @@
 ---
 title: "Kontrollverlust ist kein Urteil, sondern eine Aufgabe"
 layout: post
-categories: ideas
+categories: [ideas]
 ---
 Der Urvater des Kontrollverlusts, <a href="https://twitter.com/#!/mspro">@mspro</a>, hat sein Bild des Kontrollverlustes <a href="http://www.heise.de/ct/artikel/Archaeologie-der-Zukunft-1029002.html">mal in der c't beschrieben</a>. An diesem Bild, dass man nicht mehr Herr seiner Daten ist, möchte ich anknüpfen.
 

@@ -47,6 +47,10 @@ a:visited {
 .grey {
   color: #777; }
 
+.categories {
+  text-align: right;
+  font-size: 120%; }
+
 .center {
   text-align: center; }
 

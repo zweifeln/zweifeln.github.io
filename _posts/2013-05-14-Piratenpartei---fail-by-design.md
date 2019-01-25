@@ -1,7 +1,7 @@
 ---
 title: "Piratenpartei - fail by design"
 layout: post
-categories: politics
+categories: [politics, rant]
 ---
 <a href="http://blog.janleutert.de/2013/05/mein-austritt/">Pyth ist ausgetreten</a>. Ich möchte der Partei global vor die Füße kotzen. Nicht, dass HerrUrbach und Ennomane nicht schon Grund genug gewesen wären. Ich möchte wild um mich schlagen, zetern und die Partei retten. Allein, ich schaffe es nicht. Und dabei bin ich mindestens mitschuldig. Auch ich sitze im Berliner Vorstand mir meinen Arsch platt und bleibe bei <a href="https://service.piratenpartei.de/private/berlin/2013-April/046154.html">schön klingenden allgemien-Blah-Blah</a> (Link zum Archiv der Berliner Liste - ihr müsst dafür Abonnenten der Liste sein).
 Auf Nachfrage, dass wir als Vorstand auch konkret vorgehen sollen, reagiere ich nicht. Ich hätte gerne geantwortet, ja, machen wir. Ich würde tatsächlich gerne PAVs verteilen. Allein, ich schaffe es nicht.

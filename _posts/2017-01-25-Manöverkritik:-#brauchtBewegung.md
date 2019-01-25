@@ -1,7 +1,7 @@
 ---
 title: "Manöverkritik: #brauchtBewegung"
 layout: post
-categories: politics, rant
+categories: [politics, rant]
 ---
 
 Es gibt die neue politische Initiative <a href="https://bewegung.jetzt/">#brauchtBewegung</a>. Sie will "für Gerechtigkeit und Demokratie" zur Bundestagswahl antreten.

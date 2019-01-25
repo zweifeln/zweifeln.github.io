@@ -1,7 +1,7 @@
 ---
 title: "Piratenpartei - Postdemokratie"
 layout: post
-categories: politics, rant
+categories: [politics, rant]
 ---
 Seit Wochen wird in der Partei gesülzt. Dieses Gesülze (<a href="http://zweifeln.org/fdgo-rant/">allem voran die Überbewertung der FDGO</a>) ist im platonischen Sinne leer.
 

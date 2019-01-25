@@ -5,8 +5,8 @@
     <description>Zweifeln, Ideen und der Podcast Glaube mit Zweifeln</description>
     <link>http://127.0.0.1:4000/</link>
     <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Jan 2019 19:29:02 +0100</pubDate>
-    <lastBuildDate>Fri, 25 Jan 2019 19:29:02 +0100</lastBuildDate>
+    <pubDate>Fri, 25 Jan 2019 21:02:53 +0100</pubDate>
+    <lastBuildDate>Fri, 25 Jan 2019 21:02:53 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -205,6 +205,8 @@ Aber ich werde mir kein Ticket mehr kaufen. Für mich war es sicher die letzte r
         <guid isPermaLink="true">http://127.0.0.1:4000/2017/rp17-ein-Rant/</guid>
         
         
+        <category>rant</category>
+        
       </item>
     
       <item>
@@ -260,6 +262,8 @@ Aber ob sich das tatsächlich normalisiert, weiß ich nicht. Wie in dem verlinkt
         <link>http://127.0.0.1:4000/2017/Schwules-Daten/</link>
         <guid isPermaLink="true">http://127.0.0.1:4000/2017/Schwules-Daten/</guid>
         
+        
+        <category>personal</category>
         
       </item>
     
@@ -328,6 +332,10 @@ Wenn es gerade irgendwo eine relevante Option gibt, die deutsche Politik vom Rec
         <link>http://127.0.0.1:4000/2017/Man%C3%B6verkritik-brauchtBewegung/</link>
         <guid isPermaLink="true">http://127.0.0.1:4000/2017/Man%C3%B6verkritik-brauchtBewegung/</guid>
         
+        
+        <category>politics</category>
+        
+        <category>rant</category>
         
       </item>
     
@@ -425,6 +433,8 @@ In Teilen werden diese Debatten auf der &lt;a href=&quot;http://openmind-konfere
         
         
         <category>ideas</category>
+        
+        <category>politics</category>
         
       </item>
     

@@ -1,7 +1,7 @@
 ---
 title: "Der Unterschied zwischen Öffentlichkeit und mangelnder Privatsphäre"
 layout: post
-categories: ideas, politics
+categories: [ideas, politics]
 ---
 -Inspiriert von Hannah Arendt - Vita Activa -, dem CRE 165 "Privatsphäre" von Tim Pritlove (<a href="http://twitter.com/timpritlove">timpritlove</a>), Michael Seemann (<a href="http://twitter.com/mspro">mspro</a>) und Christian Heller (<a href="http://twitter.com/plomlompom">plomlompom</a>), sowie einer Twitterdiskussion, die Anne Roth heute morgen <a href="http://annalist.noblogs.org/post/2010/11/07/neulich-bei-twitter-post-privacy-oder-was-man-dafur-halt/">gebloggt hat</a>, will ich versuchen ein paar Grundbegriffe zu klären.
 

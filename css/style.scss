@@ -62,7 +62,12 @@ a:visited {
 }
 
 .grey {
-	color: #777;
+	color: $darkgrey;
+}
+
+.categories {
+	text-align: right;
+	font-size: 120%;
 }
 
 .center {

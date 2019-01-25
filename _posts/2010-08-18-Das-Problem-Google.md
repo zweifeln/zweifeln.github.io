@@ -1,7 +1,7 @@
 ---
 title: "Das Problem Google"
 layout: post
-categories: politics, rant
+categories: [politics, rant]
 ---
 Google ist eines der mächtigsten Unternehmen der Welt. Kein Unternehemen ist je zuvor in so kurzer Zeit so erfolgreich geworden. Google hat es geschafft. Google ist da, wo jedes Unternehemen hinkommen will.
 

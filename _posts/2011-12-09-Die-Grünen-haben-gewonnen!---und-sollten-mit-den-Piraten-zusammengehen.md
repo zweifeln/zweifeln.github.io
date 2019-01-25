@@ -1,7 +1,7 @@
 ---
 title: "Die Grünen haben gewonnen! - und sollten mit den Piraten zusammengehen"
 layout: post
-categories: politics, ideas
+categories: [politics, ideas]
 ---
 Die Grünen haben gewonnen. Glückwunsch!
 
