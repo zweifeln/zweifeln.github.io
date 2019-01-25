@@ -1,0 +1,13 @@
+title: zweifeln.org
+author: Gero Nagel
+url: http://127.0.0.1:4000
+description: Zweifeln, Ideen und der Podcast Glaube mit Zweifeln
+permalink: /:year/:title/
+podcast: Glaube mit Zweifeln
+podcast_url: /glaube
+podcast_description: Was genau ist Glaube?
+markdown: kramdown
+#plugins: 
+# - jekyll-paginate
+#paginate: 10
+#paginate_path: "/page/:num/"
