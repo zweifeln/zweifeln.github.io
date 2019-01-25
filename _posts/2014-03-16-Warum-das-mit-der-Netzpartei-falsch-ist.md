@@ -1,7 +1,7 @@
 ---
 title: "Warum das mit der Netzpartei falsch ist"
 layout: post
-categories: 
+categories: politics, rant
 ---
 Netzpolitik ist unterkomplex. Es geht nicht um Netzpolitik, es geht um Politik. Das Internet ist ein sehr spannendes Phänomen und bedarf einer guten Regulierung. Da hinein gehören Datenschutz, das Unterbinden von Zensur und Netzneutralität.
 Das Phänomen Internet stößt sich am derzeitigen Urheberrecht, so lässt sich auch da eine Reform fordern.

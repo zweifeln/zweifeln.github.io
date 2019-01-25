@@ -1,7 +1,7 @@
 ---
 title: "Ich kandidiere"
 layout: post
-categories: personal
+categories: personal, politics
 ---
 
 Ich werde als Beisitzer für den Berliner Landesvorstand kandidieren. Warum? 

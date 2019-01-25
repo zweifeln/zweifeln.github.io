@@ -1,7 +1,7 @@
 ---
 title: "Anti-Überwachungsdemo: am 27.4. in Berlin"
 layout: post
-categories: 
+categories: politics
 ---
 
 <strong>\[Update\]</strong>

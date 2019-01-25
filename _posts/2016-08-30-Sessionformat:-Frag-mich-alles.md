@@ -1,7 +1,7 @@
 ---
 title: "Sessionformat: frag mich alles"
 layout: post
-categories: 
+categories: moderation
 ---
 Am kommenden Wochenende bin ich auf dem <a href="http://www.zeit.de/z2x/">Festival der neuen Visionäre</a>. Dort gibt es das Sessionformat "Frag mich alles" - offensichtlich angelehnt an Reddits "Ask my anything".
 Spannende Menschen hinstellen und sie ausfragen lassen, klingt großartig.

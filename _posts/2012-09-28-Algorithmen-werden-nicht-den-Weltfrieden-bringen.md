@@ -1,7 +1,7 @@
 ---
 title: "Algorithmen werden nicht den Weltfrieden bringen."
 layout: post
-categories: ideas
+categories: ideas, politics
 ---
 Auf der <a href="http://12.openmind-konferenz.de/">OpenMind</a> in Kassel habe ich einen Vortrag über Algorithmen gehalten. Im Nachgang wurde mir bewusst, dass
 es eigentlich gar nicht um Algorithmen geht, sondern um ein Menschenbild und eine Idee, wie Menschen so sind, geht. 

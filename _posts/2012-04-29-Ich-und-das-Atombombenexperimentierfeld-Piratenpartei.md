@@ -1,7 +1,7 @@
 ---
 title: "Ich und das Atombombenexperimentierfeld Piratenpartei"
 layout: post
-categories: personal
+categories: personal, politics
 ---
 Eingetreten.
 

@@ -1,7 +1,7 @@
 ---
 title: "Liste: Straftaten im Internet"
 layout: post
-categories: 
+categories:
 ---
 Heute gab es mal wieder eine VDS-Diskussion auf Twitter. Alle waren sich einig, die Vorratsdatenspeicherung ist doof. Bei der Definition, wo die Vorratsdatenpeicherung anfängt und wo sie aufhöhrt, war man sich dann schon nicht mehr so einig.
 

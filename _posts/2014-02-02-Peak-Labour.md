@@ -1,7 +1,7 @@
 ---
 title: "Peak Labour"
 layout: post
-categories: ideas
+categories: ideas, politics
 ---
 Die <a href="http://www.spiegel.de/politik/deutschland/spd-will-zur-obersten-digital-partei-werden-a-950604.html">SPD will also Netzpartei werden.</a> Nun ja, nur zu, denn Netzpolitik wird als solche verschwinden. Wir (die bisherigen Netzpolitiker) haben mit "Netzpolitik" einen deutlich zu kleinen politischen Bereich bearbeitet. Wir haben den digitalen Wandel unterschätzt. Wir müssen nochmal von Vorne anfangen und die Skala vergrößern.
 

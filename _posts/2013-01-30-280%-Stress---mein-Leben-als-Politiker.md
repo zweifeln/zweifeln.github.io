@@ -1,7 +1,7 @@
 ---
 title: "280% Stress -  mein Leben als Politiker"
 layout: post
-categories: 
+categories: politics, personal
 ---
 <strong>\[Update\]</strong>
 

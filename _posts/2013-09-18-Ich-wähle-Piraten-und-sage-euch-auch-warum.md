@@ -1,7 +1,7 @@
 ---
 title: "Ich wähle Piraten und sage euch auch warum"
 layout: post
-categories: 
+categories: politics
 ---
 Meine gesamten politischen Forderungen kann ich auf zwei Grundforderungen runterbrechen: soziale Gerechtigkeit und gesellschaftlicher Fortschritt. Beides kommt in der Piratenpartei zusammen, wie in keiner anderen Partei - und deshalb werde ich sie wählen.
 

@@ -1,7 +1,7 @@
 ---
 title: "Frauen können Politik - Beispiel: Amnesty"
 layout: post
-categories: 
+categories: politics
 ---
 Frauen gehören in die Politik. Aber da sind sich wohl alle einig. Fakt ist: Es sind weniger Frauen als Männer in Parteien aktiv. Die Grünen haben eine Quote und damit mindestens 50% Frauenanteil in allen Gewählten Gremien - <a href="http://www.gruene.de/partei/projekt-fifty-fifty/warum-wir-mehr-frauen-brauchen.html">doch in der Partei haben aber selbst die Grünen nur 37% Frauen</a>.
 

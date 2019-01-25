@@ -1,7 +1,7 @@
 ---
 title: "Lobbyismus hilft nicht gegen Machtmissbrauch"
 layout: post
-categories: 
+categories: politics
 ---
 Sascha Lobo schlägt auf der <a href="http://14.re-publica.de/">re:publica</a> vor, Netzaktivismus besser zu finanzieren und die Politik stärker zu lobbyieren, damit wir eine bessere Netzpolitik bekommen.
 <div class="video">

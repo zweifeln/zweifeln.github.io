@@ -1,7 +1,7 @@
 ---
 title: "4,26€ Stundenlohn der Enquête"
 layout: post
-categories: 
+categories: politics, rant
 ---
 <a href="http://blog.fefe.de/?ts=b0ec14f6">Fefe hat sich über die Bezahlung der Enquête ausgelassen</a>. Auf Twitter habe ich vor allem die "ach so gut bezahlten Sachverständigen" wahrgenommen. Dem will ich mal ein bisschen auf den Grund gehen ...
 

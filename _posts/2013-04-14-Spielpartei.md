@@ -1,7 +1,7 @@
 ---
 title: "Spielpartei"
 layout: post
-categories: 
+categories: politics
 ---
 Oder: warum ich nicht austrete.
 

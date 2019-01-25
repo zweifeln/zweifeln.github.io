@@ -1,7 +1,7 @@
 ---
 title: "Für Bildung streiken?"
 layout: post
-categories: 
+categories: politics, politics
 ---
 Der Bildungsstreik.
 

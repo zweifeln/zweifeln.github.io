@@ -1,7 +1,7 @@
 ---
 title: "Die Ausweispflicht im Netz – was für ein Quatsch!"
 layout: post
-categories: 
+categories: politics, rant
 ---
 Es gibt inzwischen einen e-Pass, einen e-Perso mit „elektronischer Autentifizierung“; es wird über die Vorratsdatenspeicherung debattiert und von Zeit zu Zeit hört man (zumeist Konservative) Politiker von einem „Vermummungsverbot im Internet“.
 

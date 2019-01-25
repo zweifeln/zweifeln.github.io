@@ -1,7 +1,7 @@
 ---
 title: "Ragen hilft nicht"
 layout: post
-categories: 
+categories: rant
 ---
 Ragen, Verb, aus dem Englischen, von "rage" (deutsch: Wut/Zorn), ist ein Tätigkeit des verbalen Wutauslassens. Häufig entsteht die Wut über eine Sachposition, wird in der emotionalen Debatte aber manchmal persönlich. Selbst wenn kein persönlicher Angriff gewollt ist, nehmen Kontrahänten es manchmal als persönlichen Angriff war.
 

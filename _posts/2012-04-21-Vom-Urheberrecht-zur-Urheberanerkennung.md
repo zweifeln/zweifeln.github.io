@@ -1,7 +1,7 @@
 ---
 title: "Vom Urheberrecht zur Urheberanerkennung"
 layout: post
-categories: 
+categories: politics
 ---
 Auf <a href="http://www.spiegel.de/netzwelt/netzpolitik/0,1518,828246,00.html">SpOn hat mspro steile Thesen vorgelegt</a> und auf <a href="http://mspr0.de/?p=2934">seinem Blog</a> noch ein wenig berichtigt.
 

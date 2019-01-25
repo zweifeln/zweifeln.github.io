@@ -1,7 +1,7 @@
 ---
 title: "Progressiver Think-Tank"
 layout: post
-categories: ideas
+categories: ideas, politics
 ---
 2014 hat sich die Progressive Plattform gegründet, die für progressive Politik stehen sollte, sowohl innerhalb der Piratenpartei, als auch außerhalb.
 Inzwischen ist die <a href="http://progressive-plattform.net/">Domain</a> ausgelaufen, <a href="https://twitter.com/pplattform">Twitteraccount</a> und <a href="https://www.facebook.com/ProgressivePlattform">Facebookseite</a> verwaist.

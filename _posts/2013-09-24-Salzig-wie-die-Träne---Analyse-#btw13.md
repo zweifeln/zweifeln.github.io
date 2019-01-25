@@ -1,7 +1,7 @@
 ---
 title: "Salzig wie die Träne - Analyse #btw13"
 layout: post
-categories: art
+categories: art, politics
 ---
 Ohne Grundsätze ist der Mensch wie ein Schiff ohne Steuer und Kompaß, das von jedem Wind hin und her getrieben wird, aber gegen den Wind zu kreuzen bringt einen manchmal schneller zum Ziel als mit dem Wind zu segeln.
 

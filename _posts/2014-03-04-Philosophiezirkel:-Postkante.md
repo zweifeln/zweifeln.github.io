@@ -1,7 +1,7 @@
 ---
 title: "Philosophiezirkel Postkante"
 layout: post
-categories: 
+categories: ideas
 ---
 Kant, der wohl bekannteste deutschsprachige Philosoph, ist uns zu wenig. Deshalb sind wir Post-Kant. Und weil wir ein wenig grotesk sind, sind wir Postkante.
 

@@ -1,7 +1,7 @@
 ---
 title: "Urheberrechtsbarcamp"
 layout: post
-categories: 
+categories: politics
 ---
 Die Akteure der Urheberechtsdebatte hören sich nicht zu. Wer sich nicht zuhört, kann auch keine gemeinsame Lösung finden.
 

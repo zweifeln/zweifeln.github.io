@@ -1,7 +1,7 @@
 ---
 title: "Ein (Gesellschafts)System Diskurs"
 layout: post
-categories: 
+categories: politics
 ---
 Vorhin stellte ich (auf Twitter) zwei Thesen auf:
 

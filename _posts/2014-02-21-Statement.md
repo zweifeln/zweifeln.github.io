@@ -1,7 +1,7 @@
 ---
 title: "Statement"
 layout: post
-categories: 
+categories: politics, rant
 ---
 Ich habe gestern Abend ein <a href="https://lqfb.piratenpartei.de/lf/initiative/show/6580.html">Statement</a> geschrieben:
 

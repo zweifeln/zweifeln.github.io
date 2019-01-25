@@ -1,7 +1,7 @@
 ---
 title: "Das europäische Parlament wartet auf Postkarten gegen das PNR-Abkommen"
 layout: post
-categories: 
+categories: politics
 ---
 Na, wer schreibt noch "Postkarten"? Klingt wie schon so altbacken, sind aber eigentlich ganz cool.
 

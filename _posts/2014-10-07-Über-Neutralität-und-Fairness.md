@@ -1,7 +1,7 @@
 ---
 title: "Über Neutralität und Fairness"
 layout: post
-categories: 
+categories: politics, moderation
 ---
 Ziel: Gerechtigkeit. Sowohl Neutralität als auch Fairness haben einen Anspruch darauf gerecht zu sein und niemanden zu bevorteilen oder zu benachteiligen. Und doch gibt es einen großen Unterschied, ob ich mich zu einem Konflikt neutral verhalte und mich nicht einmische, oder ob ich einer Konfliktseite beistehe und Position beziehe.
 

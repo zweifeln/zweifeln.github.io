@@ -1,7 +1,7 @@
 ---
 title: "Google kotzt mich an"
 layout: post
-categories: 
+categories: politics, politics
 ---
 Google hat <a href"http://www.google.de/campaigns/deinnetz/">eine Kampagne gegen das Leistungsschutzrecht</a> ins Leben gerufen und vermischt damit (ich behaupte bewusst) ihre eigenen Interessen und die, der LSR-Gegner. Ich finde das Leistungsschutzrecht für Presseverlage schwierig, wenn nicht gar falsch. Aber, ich sehe da durchaus auch sinnvolle Idee drin, denn auch ich halte ein Urheberrecht grundsätzlich für hilfreich.
 

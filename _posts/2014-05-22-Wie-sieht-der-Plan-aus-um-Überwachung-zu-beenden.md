@@ -1,7 +1,7 @@
 ---
 title: "Wie sieht der Plan aus um Überwachung zu beenden?"
 layout: post
-categories: 
+categories: politics
 ---
 Vor knapp einem Jahr erzählte uns Edward Snowden von der globalen Überwachung. Wir werden alle überwacht. Und jetzt?
 
