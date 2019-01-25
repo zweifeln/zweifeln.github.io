@@ -6,7 +6,10 @@ layout: default
 	<h2>{{ page.title }}</h2>
 </div>
 
-{% assign postsByYear =  site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear %}
-	{% include blog.html %}
+
+{% for post in site.posts %}
+	{% assign year = post.date | date: "%Y" %}
+	{% if year = 2018 %}
+		{% include blog.html %}
+	{% endif %}
 {% endfor %}
