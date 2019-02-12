@@ -1,0 +1,84 @@
+<style>
+/*slider*/
+
+.slider_placeholder {
+	width: 100%;
+	position: relative;
+	padding-bottom: 70%;
+	padding-top: 20px;
+	height: 0;
+	margin: auto;
+ }
+
+.slider {
+	width: auto;
+	height:	auto;
+}
+.slide {
+	position: absolute;
+	width: auto;
+	height:	auto;
+}
+.slider .slide:target {
+	z-index: 100;
+}
+
+.slider ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+a.prev,a.next {
+	height: 40px;
+	position: absolute;
+	width: 40px;
+	top: 50%;
+	margin-top: -30px;
+	opacity: 0.6;
+	text-indent: -99999px;
+	cursor: pointer;
+	-webkit-transition: opacity 200ms ease-out;
+}
+a.prev:hover,a.next:hover {
+	opacity: 1;
+}
+.prev {
+	left: 0;
+	background: #000 url(/icon/grey/left.svg) no-repeat;
+	margin: auto;
+}
+.next {
+	right: 0;
+	background: #000 url(/icon/grey/right.svg) no-repeat;
+	margin: auto;
+}
+
+
+.slider img {
+	width: 100%;
+	height:	auto;
+	padding: 0px;
+}
+</style>
+
+<div class="slider_placeholder">
+<div class="slider">
+	{% for file in site.static_files %}
+		{% if file.path contains include.folder %}
+			{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
+				{% assign filenameparts = file.path %}
+				<ul>
+					<li id="{{ photo_id }}" class="slide">
+						<img src="{{ file.path }}" />
+						{% decrement photo_id %}
+						<a class="prev" href="#{{ photo_id }}">◄</a>
+						{% increment photo_id %}
+						<a class="next" href="#{{ photo_id }}">►</a>
+					</li>
+				</ul>
+			{% endif %}
+		{% endif %}
+	{% endfor %}				
+</div>
+</div>

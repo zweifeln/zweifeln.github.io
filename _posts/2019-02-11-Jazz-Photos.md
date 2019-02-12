@@ -4,6 +4,8 @@ layout: post
 categories: photos
 ---
 
-Last year in June I had a photo shooting with my jazz dance group, led by <a href="https://evgenia-itkina.com/">Evi</a>.
+In June 2018 I had a photo shooting with <a href="https://evgenia-itkina.com/">my jazz dance class, tought by Evi</a>.
 
-{% include image-gallery.html folder="/images/jazz" %}
+<!-- {% include image-gallery.html folder="images/jazz/" %} -->
+
+{% include image-slider.html folder="images/jazz" %}
