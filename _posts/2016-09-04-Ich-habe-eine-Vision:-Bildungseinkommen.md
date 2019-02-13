@@ -1,7 +1,7 @@
 ---
 title: "Ich habe eine Vision: Bildungseinkommen"
 layout: post
-categories: ideas
+categories: [ideas, politics]
 ---
 In der Debatte um Automatisierung und neuer Arbeit scheint es mir zwei große Probleme zu geben:
 <ol>

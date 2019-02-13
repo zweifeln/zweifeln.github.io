@@ -1,7 +1,7 @@
 ---
 title: Antiaufklärung
 layout: post
-categories: ideas
+categories: [ideas, politics]
 ---
 
 Vor Monaten haben ich <a href="http://www.schaubuehne.de/de/produktionen/fear.html/ID_Vorstellung=1858&amp;m=168">das Theaterstück "Fear"</a> an der Berliner Schaubühne gesehen. <a href="http://www.tagesspiegel.de/kultur/schaubuehne-berlin-fear-siegt-ueber-die-angst-von-afd-und-pegida/12727778.html">Das war das Theaterstück, dass die AfD gerichtlich verbieten lassen wollte, damit aber gescheitert ist</a>.

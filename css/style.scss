@@ -47,10 +47,6 @@ p {
 	text-align: justify;
 }
 
-img {
-	padding: 10px;
-}
-
 a:link,
 a:visited {
     color: #000;
@@ -77,11 +73,13 @@ a:visited {
 .img_right {
 	float: right;
 	overflow: hidden;
+	padding: 10px;
 }
 
 .img_left {
 	float: left;
 	overflow: hidden;
+	padding: 10px;
 }
 
 .video {

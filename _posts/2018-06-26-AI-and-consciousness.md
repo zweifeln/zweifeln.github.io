@@ -1,7 +1,7 @@
 ---
 title: "AI and Consciousness"
 layout: post
-categories: ai
+categories: [ai, science]
 ---
 
 **Review: [Esther Weidauer](https://twitter.com/selfawaresoup)**
