@@ -9,7 +9,7 @@ categories: [photos, art, politics]
 Photo: Konstanze Burkhart
 </div>
 
-Yesterday I went to the <a href="https://berlingegen13.wordpress.com/">"BerlinGegen13"-demonstration</a> and planned an art performance containing taking pictures and of protest signs and confronting protesters about potential copyright violations of their signs - as the distopian future character "Copyright-Riotcop" that I portraied some time ago for the collectively written theater play <a href="https://c-atre.de/produktionen/copyriot/">"The Time is Right"</a>.
+Yesterday I went to the <a href="https://berlingegen13.wordpress.com/">"BerlinGegen13"-demonstration</a> and planned an art performance containing taking pictures of protest signs and confronting protesters about potential copyright violations of their signs - as the distopian future character "Copyright-Riotcop" that I portraied some time ago for the collectively written theater play <a href="https://c-atre.de/produktionen/copyriot/">"The Time is Right"</a>.
 
 The theater play is about time travel and a way over the top copyright, that acutally destroyes art itself. So pretty much, <a href="https://juliareda.eu/2019/02/eu-copyright-final-text/">what the upload filters may become<a>. So that is why I felt that this art intervention is very precise to the point.
 
@@ -20,7 +20,7 @@ Sadly I could not conclude the performance as the real police confiscated the ma
 
 It is quite ironic that an art performance based on a theater play about repressions against artists was shut down at a demonstration about freedom of art. (Though the law used against this art performance has nothing to do with art or copyright. In the theater play the repressions against artists are copyright based too.)
 
-If you happen to have pictures of me as Copyright Riotcop, please send them to me: gero \[at\] zweifeln.org
+If you happen to have taken pictures of me as Copyright Riotcop, please send them to me: gero \[at\] zweifeln.org
 
 
 However the protest signs I got to take pictures of were pretty awesome:
