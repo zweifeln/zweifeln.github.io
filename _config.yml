@@ -7,7 +7,8 @@ permalink: /:year/:title/
 #podcast_url: /glaube
 #podcast_description: Was genau ist Glaube?
 markdown: kramdown
-#plugins: 
+plugins: 
+  - jekyll-feed
 # - jekyll-paginate
 #paginate: 10
 #paginate_path: "/page/:num/"
