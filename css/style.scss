@@ -124,33 +124,6 @@ a:visited {
 	background-color: $darkgrey;
 }
 
-.paginator ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	display: inline-block;
-}
-
-.paginator li {
-	float: left;
-}
-
-.paginator li a {
-	display: block;
-	color: black;
-	background-color: $lightgrey;
-	font-size: 120%;
-	text-align: center;
-	padding: 8px 12px;
-	text-decoration: none;
-}
-
-.paginator li a:hover {
-	background-color: $darkgrey;
-}
-
-
 @media only screen and (min-width: 700px) {
 	body {
 		margin-left: 100px;
@@ -168,33 +141,40 @@ a:visited {
 	}
 }
 
-/*gallery*/
-    
-.image-gallery {
-	overflow: auto;
-	margin-left: -1%;
+
+
+
+/*gallyer*/
+
+.mySlides {display: none}
+.mySlides img {vertical-align: middle;}
+
+.slider_placeholder {
+	width: 100%;
+	position: relative;
 }
 
-.image-gallery a {
-	float: left; 
-	display: block; 
-	margin: 0 0 1% 1%; 
-	width: 18%; 
-	text-align: center; 
-	text-decoration: none;
+/* Next & previous buttons */
+.prev, .next {
+	cursor: pointer;
+	position: absolute;
+	top: 50%;
+	width: auto;
+	padding: 20% 3%;
+	margin-top: -20%;
+	color: white;
+	transition: 0.6s ease;
+	border-radius: 0 3px 3px 0;
+	user-select: none;
 }
 
-.image-gallery a span {
-	display: block; 
-	text-overflow: ellipsis; 
-	overflow: hidden; 
-	white-space: nowrap; 
-	padding: 3px 0;
+/* Position the "next button" to the right */
+.next {
+	right: 0;
+	border-radius: 5px 0 0 5px;
 }
 
-.image-gallery a img {
-	width: 100%; 
-	display: block;
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+	background-color: rgba(0,0,0,0.5);
 }
-
-
