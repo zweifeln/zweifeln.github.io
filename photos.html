@@ -8,20 +8,4 @@ layout: default
 
 {% for post in site.categories.photos %}
 	{% include blog.html %}
-	{% if post.slides %}
-		{% assign slides_folder = post.slides | prepend: "/images/" %}
-    <div class="slideshow-container">
-		{% for file in site.static_files %}
-			{% if file.path contains slides_folder %}
-    			{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
-    <div class="slideshow-image">
-      <img src="{{ file.path }}" />
-    </div>
-    			{% endif %}
-    		{% endif %}
-    	{% endfor %} 
-    <a class="prev">&#10094;</a>
-    <a class="next">&#10095;</a>
-  </div>
-    {% endif %}
 {% endfor %}
