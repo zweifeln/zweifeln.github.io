@@ -2,6 +2,7 @@
 title: "Copyright Riotcop"
 layout: post
 categories: [photos, art, politics]
+slides: berlingegen13
 ---
 
 <div class="img_right">
@@ -24,7 +25,3 @@ If you happen to have taken pictures of me as Copyright Riotcop, please send the
 
 
 However the protest signs I got to take pictures of were pretty awesome:
-
-{% include slider.html folder="images/berlingegen13" %}
-
-

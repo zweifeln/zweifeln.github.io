@@ -1,0 +1,501 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"next",
+				"nextElement"
+			],
+			[
+				"active",
+				"activeElement"
+			],
+			[
+				"galler",
+				"galleryName"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"card",
+				"card_txt"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"posti",
+				"position\tproperty"
+			],
+			[
+				"background-",
+				"background-position\tproperty"
+			],
+			[
+				"gridte",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"max-",
+				"max-height\tproperty"
+			],
+			[
+				"tetx",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "---\ntitle: Photos\nlayout: default\n---\n<div class=\"center\">\n\t<h1>{{ page.title }}</h1>\n</div>\n\n{% for post in site.categories.photos %}\n\t{% include blog.html %}\n\t{% if post.slides %}\n\t\t{% assign slides_folder = post.slides | prepend: \"/images/\" %}\n    <div class=\"slideshow-container\">\n\t\t{% for file in site.static_files %}\n\t\t\t{% if file.path contains slides_folder %}\n    \t\t\t{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}\n    <div class=\"slideshow-image\">\n      <img src=\"{{ file.path }}\" />\n    </div>\n    \t\t\t{% endif %}\n    \t\t{% endif %}\n    \t{% endfor %} \n    <a class=\"prev\">&#10094;</a>\n    <a class=\"next\">&#10095;</a>\n  </div>\n    {% endif %}\n{% endfor %}",
+			"file": "photos.html",
+			"file_size": 727,
+			"file_write_time": 132099997377522649,
+			"settings":
+			{
+				"buffer_size": 727,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/gallery.js",
+			"settings":
+			{
+				"buffer_size": 997,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 2488,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"toggle",
+				"View: Toggle Status Bar"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/zweifeln/zweifeln.org",
+		"/home/zweifeln/zweifeln.org/_includes"
+	],
+	"file_history":
+	[
+		"/home/zweifeln/zweifeln.org/js/gallery.js",
+		"/home/zweifeln/zweifeln.org/css/style.css",
+		"/home/zweifeln/zweifeln.org/_posts/2019-03-03-Copyright-Riotcop.md",
+		"/home/zweifeln/zweifeln.org/_config.yml",
+		"/home/zweifeln/zweifeln.org/js/slider.js",
+		"/home/zweifeln/zweifeln.org/_includes/footer.html",
+		"/home/zweifeln/.local/share/gtimelog/timelog.txt",
+		"/home/zweifeln/zweifeln.org/_includes/blog.html",
+		"/home/zweifeln/zweifeln.org/zweifeln.sublime-project",
+		"/home/zweifeln/tognos/cheat sheet to remember ssh commands:.txt",
+		"/home/zweifeln/tognos/website/README.md",
+		"/home/zweifeln/tognos/Tognos website - documentation",
+		"/home/zweifeln/Desktop/Identifikation-Deutsch.md",
+		"/home/zweifeln/tognos/website/_config.yml",
+		"/home/zweifeln/tognos/website/images/tognos_logo.svg",
+		"/home/zweifeln/deep/BesD/Admin BesD/zugang Mailserver.txt",
+		"/home/zweifeln/zweifeln.org/photos.html",
+		"/home/zweifeln/deep/BesD/Admin BesD/ssh zugang.txt",
+		"/home/zweifeln/deep/BesD/Admin BesD/sesamMail.txt",
+		"/home/zweifeln/deep/BesD/Admin BesD/twitter.txt",
+		"/home/zweifeln/zweifeln.org/_posts/2019-02-11-Jazz-Photos.md",
+		"/home/zweifeln/zweifeln.org/_site/css/style.css",
+		"/home/zweifeln/zweifeln.org/_includes/slider.html",
+		"/home/zweifeln/zweifeln.org/js/multi_slider.js",
+		"/home/zweifeln/Desktop/20190624 - D64, KI-Treffen.txt",
+		"/home/zweifeln/.config/sublime-text-3/Packages/20190624-KI-Treffen-D64.txt",
+		"/tmp/mozilla_zweifeln0/0xD9D132C0D4243F3C.asc",
+		"/home/zweifeln/Desktop/mad world.mp3",
+		"/home/zweifeln/tognos/website/css/style.css",
+		"/home/zweifeln/tognos/website/_layouts/default.html",
+		"/home/zweifeln/tognos/website/_demos/traffic_lights.md",
+		"/home/zweifeln/tognos/website/_permanent/demos.md",
+		"/home/zweifeln/tognos/website/_demos/traffic_signs.md",
+		"/home/zweifeln/tognos/website/_permanent/our_team.md",
+		"/home/zweifeln/tognos/website/_permanent/services.md",
+		"/home/zweifeln/tognos/website/_permanent/imprint.md",
+		"/home/zweifeln/tognos/website/_services/Your model on Android and iOS.md",
+		"/home/zweifeln/tognos/website/_services/Integration into your mobile App.md",
+		"/home/zweifeln/tognos/website/_services/Production Environment Design.md",
+		"/home/zweifeln/tognos/website/_services/Training and Consulting.md",
+		"/home/zweifeln/tognos/website/_services/Integration into your Business App.md",
+		"/home/zweifeln/tognos/website/_services/Data collection, Training and Design.md",
+		"/home/zweifeln/tognos/website/_team/pavel_mayer.md",
+		"/home/zweifeln/tognos/website/_permanent/whatsthatpic.md",
+		"/home/zweifeln/tognos/website/_demos/adult_or_child.md",
+		"/home/zweifeln/tognos/website/_team/gero_nagel.md",
+		"/home/zweifeln/tognos/website/_team/alexander_morlang.md",
+		"/home/zweifeln/Desktop/2019-06-18 How to not do everything?.txt",
+		"/home/zweifeln/zweifeln.org/_includes/head.html",
+		"/home/zweifeln/zweifeln.org/css/style.scss",
+		"/home/zweifeln/.cache/.fr-vD4ANf/liquid-master/Gemfile",
+		"/home/zweifeln/.cache/.fr-u9XE8K/liquid-master/.rubocop.yml",
+		"/home/zweifeln/deep/BesD/Admin BesD/ftp besd.txt",
+		"/home/zweifeln/deep/BesD/Admin BesD/hurenkongress.txt",
+		"/home/zweifeln/.cache/.fr-Wtyc7M/Admin/ssh zugang.txt",
+		"/home/zweifeln/Desktop/sexwork_and_patriarchy.txt",
+		"/home/zweifeln/.cache/.fr-pesW6R/Admin/hurenkongress.txt",
+		"/home/zweifeln/.cache/.fr-QykkOK/Admin/twitter.txt",
+		"/home/zweifeln/.cache/.fr-fmblAC/Admin/zugang Mailserver.txt",
+		"/home/zweifeln/.cache/.fr-3oodA5/Admin/twitter.txt",
+		"/home/zweifeln/.cache/.fr-V1K8tV/Admin/ssh zugang.txt",
+		"/home/zweifeln/.cache/.fr-zAaQBG/Admin/sesamMail.txt",
+		"/home/zweifeln/.cache/.fr-PSEhzQ/Admin/ftp besd.txt",
+		"/tmp/mozilla_zweifeln0/Untitled",
+		"/home/zweifeln/zweifeln.org/index.html",
+		"/home/zweifeln/zweifeln.org/_albums/_berlingegen13/IMG_2404.md",
+		"/home/zweifeln/Desktop/Outing.txt",
+		"/home/zweifeln/zweifeln.org/_photos/_berlingegen13/IMG_2404.md",
+		"/home/zweifeln/zweifeln.org/_site/photos/index.html",
+		"/home/zweifeln/zweifeln.org/2010.html",
+		"/home/zweifeln/zweifeln.org/_site/2019/index.html",
+		"/home/zweifeln/zweifeln.org/_includes/slider_berlingegen13.html",
+		"/home/zweifeln/zweifeln.org/_serve.yml",
+		"/home/zweifeln/Desktop/2019-05-31-Infrastruktur-und-rechte-Politik.md",
+		"/home/zweifeln/Desktop/Gero Nagel ist 1990 in Hildesheim geboren und auf",
+		"/home/zweifeln/zweifeln.org/_posts/2010-07-24-Politik.-Das-Spiel-der-Strategie.md",
+		"/home/zweifeln/Desktop/Warum in Ostdeutschland rechte Parteien gewählt we",
+		"/home/zweifeln/Desktop/SWARM Konferenz.md",
+		"/home/zweifeln/scripts/often used lines.txt",
+		"/run/user/1000/gvfs/mtp:host=%5Busb%3A003%2C095%5D/Internal storage/Calibre_Companion/Hannah Arendts Begriff der Macht - unknown (62)/Hannah Arendts Begriff der Macht - unknown (62)-annotation.txt",
+		"/run/user/1000/gvfs/mtp:host=%5Busb%3A003%2C094%5D/Internal storage/Calibre_Companion/Hannah Arendts Begriff der Macht - unknown (62)/Hannah Arendts Begriff der Macht - unknown (62)-annotation.txt",
+		"/home/zweifeln/Desktop/Bewerbung Open Society Foundation.txt",
+		"/home/zweifeln/Desktop/Ergebnisprotokoll IGF-D 20190320.txt",
+		"/home/zweifeln/Desktop/invoice.html",
+		"/home/zweifeln/zweifeln.org/_includes/header.html",
+		"/home/zweifeln/Downloads/feed",
+		"/home/zweifeln/Documents/Portraits of inspiring people on Instagram.txt",
+		"/home/zweifeln/Documents/OutAndBack/082 - Verabschiedung, die erste.txt",
+		"/home/zweifeln/Documents/OutAndBack/070 - Melbourne.txt",
+		"/home/zweifeln/Documents/OutAndBack/002 - Sydney, die erste.txt",
+		"/home/zweifeln/Documents/OutAndBack/Charaktäre.txt",
+		"/home/zweifeln/Documents/OutAndBack/Nachspann.txt",
+		"/home/zweifeln/Documents/OutAndBack/111 - Onsen.txt",
+		"/home/zweifeln/Documents/OutAndBack/130 - Kobe.txt",
+		"/home/zweifeln/Documents/OutAndBack/120 - Kyoto.txt",
+		"/home/zweifeln/Documents/OutAndBack/100 - Osaka.txt",
+		"/home/zweifeln/Documents/OutAndBack/016 - Mt. Isa.txt",
+		"/home/zweifeln/Documents/OutAndBack/030 - Kennenlernen.txt",
+		"/home/zweifeln/Documents/OutAndBack/040 - Kenji.txt",
+		"/home/zweifeln/Documents/OutAndBack/050 - Mein Kopf.txt",
+		"/home/zweifeln/Documents/OutAndBack/081 - Weihnachten in Melbourne.txt",
+		"/home/zweifeln/Documents/OutAndBack/091 - Duschen.txt",
+		"/home/zweifeln/Documents/OutAndBack/095 - Einladung.txt",
+		"/home/zweifeln/Documents/OutAndBack/097 - Nonnen.txt",
+		"/home/zweifeln/Documents/OutAndBack/096 - Das Telefonat.txt",
+		"/home/zweifeln/Documents/OutAndBack/110 - Nara.txt",
+		"/home/zweifeln/Documents/OutAndBack/025 - The Forest Of Dreams.txt",
+		"/home/zweifeln/Documents/OutAndBack/017 - Into the Wild.txt",
+		"/home/zweifeln/Documents/OutAndBack/015 - Outback. Ölproduzent einen Tag lang.txt",
+		"/home/zweifeln/Documents/OutAndBack/001 - Ankunft in Sydney.txt",
+		"/home/zweifeln/Documents/OutAndBack/090 - Nara.txt",
+		"/home/zweifeln/Documents/Texte/Gay travelling.txt",
+		"/home/zweifeln/Documents/Archive/Aktivismus/IGF-D/ypig.txt",
+		"/home/zweifeln/Documents/Archive/Aktivismus/IGF-D/Jugend IGF D Messages.txt",
+		"/home/zweifeln/Documents/Texte/Ich starre aus dem Fenster.txt",
+		"/home/zweifeln/Documents/OutAndBack/Noosa.txt",
+		"/home/zweifeln/Documents/OutAndBack/Kennenlernen.txt",
+		"/home/zweifeln/Documents/OutAndBack/Überblick Outline.txt",
+		"/home/zweifeln/deep/Dennis Deep.txt",
+		"/home/zweifeln/Documents/OutAndBack/Caravan.txt",
+		"/home/zweifeln/Documents/OutAndBack/Weihnachten in Pink.txt",
+		"/home/zweifeln/tognos/Tognos Workshop.md",
+		"/home/zweifeln/Documents/Texte/Weihnachten in Pink.txt",
+		"/home/zweifeln/Desktop/Therapeut*innen Anschreiben.txt",
+		"/home/zweifeln/tognos/website/_includes/header.html",
+		"/home/zweifeln/Documents/Texte/20190429 Why is pain..txt",
+		"/home/zweifeln/tognos/website/_config_serve_localhost.yml",
+		"/home/zweifeln/tognos/website/index.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dot",
+			"dots",
+			"{{{",
+			"x",
+			"$darkgr",
+			"$light",
+			"mySl",
+			"file",
+			" \n",
+			"We take your trained machine learning model and implement it on Android and iOS.",
+			"services",
+			"margin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"image",
+			"team",
+			"demos"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "photos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								643
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 17.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/gallery.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 269.0
+	},
+	"pinned_build_system": "",
+	"project": "zweifeln.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Texte/texte.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

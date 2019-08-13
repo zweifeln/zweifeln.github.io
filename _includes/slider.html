@@ -1,78 +1,35 @@
-<style>
-
-.mySlides {display: none}
-.mySlides img {vertical-align: middle;}
-
-.slider_placeholder {
-	width: 100%;
-	position: relative;
-}
-
-/* Next & previous buttons */
-.prev, .next {
-	cursor: pointer;
-	position: absolute;
-	top: 50%;
-	width: auto;
-	padding: 20% 3%;
-	margin-top: -20%;
-	color: white;
-	transition: 0.6s ease;
-	border-radius: 0 3px 3px 0;
-	user-select: none;
-}
-
-/* Position the "next button" to the right */
-.next {
-	right: 0;
-	border-radius: 5px 0 0 5px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-	background-color: rgba(0,0,0,0.5);
-}
-</style>
-
 {% for file in site.static_files %}
-	{% if file.path contains include.folder %}
-		{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
-<div class="slider_placeholder">
-	<div class="mySlides fade">
-		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-		<a class="next" onclick="plusSlides(1)">&#10095;</a>
-		<img src="{{ file.path }}" />
-	</div>
+  {% if file.path contains include.folder %}
+    {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
+<div class="slideshow-container">
+  <div class="mySlides1">
+    <img src="{{ file.path }}" style="width:100%">
+  </div>
 </div>
-		{% endif %}
-	{% endif %}
+    {% endif %}
+  {% endif %}
 {% endfor %}
+<a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
+<a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
+
 
 <script>
-var slideIndex = 1;
-showSlides(slideIndex);
+var slideIndex = [{% for post in site.categories.photos %}{% if post.slider %}{% if forloop.last == true %}1{% else %}1,{% endif %}{% endif %}{% endfor %}];
+var slideId = [{% for post in site.categories.photos %}{% if forloop.last == true %}{{ post.folder }}{% else %}{{ post.folder }}, {% endif %}{% endfor %}];
+{% for post in site.categories.photos %}{% if post.slider %}showSlides(1, {{ forloop.index0 }});{% endif %}{% endfor %}
 
-function plusSlides(n) {
-	showSlides(slideIndex += n);
+function plusSlides(n, no) {
+  showSlides(slideIndex[no] += n, no);
 }
 
-function currentSlide(n) {
-	showSlides(slideIndex = n);
-}
-
-function showSlides(n) {
-	var i;
-	var slides = document.getElementsByClassName("mySlides");
-	var dots = document.getElementsByClassName("dot");
-	if (n > slides.length) {slideIndex = 1}    
-	if (n < 1) {slideIndex = slides.length}
-	for (i = 0; i < slides.length; i++) {
-		slides[i].style.display = "none";  
-	}
-	for (i = 0; i < dots.length; i++) {
-		dots[i].className = dots[i].className.replace(" active", "");
-	}
-	slides[slideIndex-1].style.display = "block";  
-	dots[slideIndex-1].className += " active";
+function showSlides(n, no) {
+  var i;
+  var x = document.getElementsByClassName(slideId[no]);
+  if (n > x.length) {slideIndex[no] = 1}    
+  if (n < 1) {slideIndex[no] = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex[no]-1].style.display = "block";  
 }
 </script>
