@@ -1,14 +1,14 @@
 title: zweifeln.org
 author: Gero Nagel
-url: http://localhost:4000
-description: Gero Nagel is a queer observer, moderator and thinker doing politics, science and art.
+url: https://zweifeln.org
+description: Gero Nagel is a queer observer and eternal student.
 permalink: /:year/:title/
 #podcast: Glaube mit Zweifeln
 #podcast_url: /glaube
 #podcast_description: Was genau ist Glaube?
 markdown: kramdown
 plugins_dir: 
-# - jekyll-feed
+ - jekyll-feed
 # - jekyll-paginate
 #paginate: 10
 #paginate_path: "/page/:num/"
