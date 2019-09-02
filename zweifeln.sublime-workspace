@@ -60,20 +60,10 @@
 	"buffers":
 	[
 		{
-			"file": "photos.html",
+			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 172,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/blog.html",
-			"settings":
-			{
-				"buffer_size": 748,
-				"encoding": "UTF-8",
+				"buffer_size": 2488,
 				"line_ending": "Unix"
 			}
 		},
@@ -81,16 +71,23 @@
 			"file": "_layouts/post.html",
 			"settings":
 			{
-				"buffer_size": 441,
-				"encoding": "UTF-8",
+				"buffer_size": 1002,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "css/style.css",
+			"file": "2010.html",
 			"settings":
 			{
-				"buffer_size": 2488,
+				"buffer_size": 248,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 145,
 				"line_ending": "Unix"
 			}
 		}
@@ -139,20 +136,27 @@
 	},
 	"expanded_folders":
 	[
+		"/home/zweifeln/scripts",
 		"/home/zweifeln/zweifeln.org",
 		"/home/zweifeln/zweifeln.org/_includes",
 		"/home/zweifeln/zweifeln.org/_layouts"
 	],
 	"file_history":
 	[
-		"/home/zweifeln/zweifeln.org/js/gallery.js",
+		"/home/zweifeln/zweifeln.org/_layouts/default.html",
+		"/home/zweifeln/scripts/often used lines.txt",
+		"/home/zweifeln/zweifeln.org/_includes/blog.html",
 		"/home/zweifeln/zweifeln.org/css/style.css",
+		"/home/zweifeln/zweifeln.org/_layouts/post.html",
+		"/home/zweifeln/zweifeln.org/2010.html",
+		"/home/zweifeln/zweifeln.org/photos.html",
+		"/home/zweifeln/zweifeln.org/_includes/article.html",
 		"/home/zweifeln/zweifeln.org/_posts/2019-03-03-Copyright-Riotcop.md",
+		"/home/zweifeln/zweifeln.org/_includes/footer.html",
+		"/home/zweifeln/zweifeln.org/js/gallery.js",
 		"/home/zweifeln/zweifeln.org/_config.yml",
 		"/home/zweifeln/zweifeln.org/js/slider.js",
-		"/home/zweifeln/zweifeln.org/_includes/footer.html",
 		"/home/zweifeln/.local/share/gtimelog/timelog.txt",
-		"/home/zweifeln/zweifeln.org/_includes/blog.html",
 		"/home/zweifeln/zweifeln.org/zweifeln.sublime-project",
 		"/home/zweifeln/tognos/cheat sheet to remember ssh commands:.txt",
 		"/home/zweifeln/tognos/website/README.md",
@@ -161,7 +165,6 @@
 		"/home/zweifeln/tognos/website/_config.yml",
 		"/home/zweifeln/tognos/website/images/tognos_logo.svg",
 		"/home/zweifeln/deep/BesD/Admin BesD/zugang Mailserver.txt",
-		"/home/zweifeln/zweifeln.org/photos.html",
 		"/home/zweifeln/deep/BesD/Admin BesD/ssh zugang.txt",
 		"/home/zweifeln/deep/BesD/Admin BesD/sesamMail.txt",
 		"/home/zweifeln/deep/BesD/Admin BesD/twitter.txt",
@@ -214,7 +217,6 @@
 		"/home/zweifeln/Desktop/Outing.txt",
 		"/home/zweifeln/zweifeln.org/_photos/_berlingegen13/IMG_2404.md",
 		"/home/zweifeln/zweifeln.org/_site/photos/index.html",
-		"/home/zweifeln/zweifeln.org/2010.html",
 		"/home/zweifeln/zweifeln.org/_site/2019/index.html",
 		"/home/zweifeln/zweifeln.org/_includes/slider_berlingegen13.html",
 		"/home/zweifeln/zweifeln.org/_serve.yml",
@@ -223,7 +225,6 @@
 		"/home/zweifeln/zweifeln.org/_posts/2010-07-24-Politik.-Das-Spiel-der-Strategie.md",
 		"/home/zweifeln/Desktop/Warum in Ostdeutschland rechte Parteien gewählt we",
 		"/home/zweifeln/Desktop/SWARM Konferenz.md",
-		"/home/zweifeln/scripts/often used lines.txt",
 		"/run/user/1000/gvfs/mtp:host=%5Busb%3A003%2C095%5D/Internal storage/Calibre_Companion/Hannah Arendts Begriff der Macht - unknown (62)/Hannah Arendts Begriff der Macht - unknown (62)-annotation.txt",
 		"/run/user/1000/gvfs/mtp:host=%5Busb%3A003%2C094%5D/Internal storage/Calibre_Companion/Hannah Arendts Begriff der Macht - unknown (62)/Hannah Arendts Begriff der Macht - unknown (62)-annotation.txt",
 		"/home/zweifeln/Desktop/Bewerbung Open Society Foundation.txt",
@@ -269,10 +270,7 @@
 		"/home/zweifeln/tognos/Tognos Workshop.md",
 		"/home/zweifeln/Documents/Texte/Weihnachten in Pink.txt",
 		"/home/zweifeln/Desktop/Therapeut*innen Anschreiben.txt",
-		"/home/zweifeln/tognos/website/_includes/header.html",
-		"/home/zweifeln/Documents/Texte/20190429 Why is pain..txt",
-		"/home/zweifeln/tognos/website/_config_serve_localhost.yml",
-		"/home/zweifeln/tognos/website/index.html"
+		"/home/zweifeln/tognos/website/_includes/header.html"
 	],
 	"find":
 	{
@@ -322,98 +320,11 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "photos.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 172,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								159,
-								159
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 17.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_includes/blog.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 748,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								228,
-								228
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_layouts/post.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 441,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "css/style.css",
 					"semi_transient": false,
 					"settings":
@@ -439,6 +350,91 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "2010.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
