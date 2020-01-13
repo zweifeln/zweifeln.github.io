@@ -25,7 +25,7 @@ Genau das möchte ich anbieten. Ein wöchentliches Treffen zur Projektbesprechun
 Wenn es einige Leute in Berlin gibt, die daran Interesse haben, lasst uns gerne ein wöchentliches Treffen in Berlin haben, wenn interessierte irgendwo auf der Welt sind, gerne auch per Videokonferenz.
 Offline Meetings sind oft effizienter als Videokonferenzen, aber auch Videokonferenzen funktionieren ganz okay.
 
-## Wer hat Interesse an einer Prokrastinations-Selbsthilfegruppe?
+### Wer hat Interesse an einer Prokrastinations-Selbsthilfegruppe?
 Schreibt mir: **gero [at] zweifeln.org**
 
 In der Mail wäre eine kurze Vorstellung schön, wer ihr seid und was eurer Projekt ist, dass ihr prokrastiniert - und wann euch ein solches Treffen gut passen würde: eher vormittags, eher nachmittags, eher abends - und wenn es einen präferierten Wochentag gibt, auch gerne den.
