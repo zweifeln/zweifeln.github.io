@@ -69,6 +69,13 @@ a:visited {
 	text-align: center;
 }
 
+
+.img {
+	float: none;
+	overflow: hidden;
+	padding: 20px;
+}
+
 .img_right {
 	float: right;
 	overflow: hidden;

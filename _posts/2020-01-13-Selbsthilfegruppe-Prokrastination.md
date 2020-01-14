@@ -32,3 +32,32 @@ In der Mail wäre eine kurze Vorstellung schön, wer ihr seid und was eurer Proj
 (Daraus baue ich dann ein Doodle zur genaueren Terminfindung.)
 
 Mein Projekt ist mein Fernstudium … dem seit Jahren ein paar Hausarbeiten und die Bachelorarbeit fehlt. Und wenn das geschafft ist, gibt es noch ein Buchprojekt, eine Politkampagne, ein Filmprojekt und ein Homeserver-Projekt … aber zuerst das Fernstudium beenden.
+
+### Update 2020-01-14
+
+Nach einigen Rückmeldungen wurde mir klar, dass ich besser erklären muss, was eigentlich meine Idee dieses wöchentlichen Treffens ist - und vor allem, was es nicht ist.
+
+Ich bin kein Psychotherapeut und traue mir nicht zu, eine Gruppentherapie zu leiten. Ich will auch keine Gruppentherapie. Ich will keine Runde, in der wir *über* Prokrastination reden.
+Ich will eine Runde, in der wir über die Projekte reden, die wir prokrastinieren.
+
+Ich will den Fokus auf den Projekten, die wir alle vor uns her schieben. Ich will nicht wöchentlich abstrakte Gespräche über "Prokrastination" und Tipps, wie abstrakt weniger prokrastiniert werden kann, sondern konkret über einzelne Vorhaben reden.
+
+Ich will, dass wir uns gegenseitig Hausaufgaben zu unseren Vorhaben geben - und damit selbst für Struktur sorgen, die wir brauchen, um unsere Vorhaben umzusetzen.
+
+
+<div class="img_left">
+	<img src="{{ site.url }}/images/posts/Studentensyndrom.png" alt="Schema Arbeitsentwicklung von Prokrastination"><br>
+	Ich will von dieser aus der <a href="https://de.wikipedia.org/wiki/Prokrastination">Wikipedia</a> kopierten Darstellung …
+</div>
+
+<div class="img_left">
+	<img src="{{ site.url }}/images/posts/Selbsthilfegruppe Prokrastination.png" alt="Schema Arbeitsentwickling, wie ich sie mir mit dieser Selbsthilfegruppe wünsche"><br>
+	… zu dieser selbstgebauten.
+</div>
+
+Denn insbesondere bei Vorhaben, die (noch) keinen festen Endtermin haben, fehlt auch die "Oh jetzt wird's knapp!" Entwicklung … und die Vorhaben dümpeln nur so vor sich hin.
+
+Es geht mir darum, wöchentliche, "kleine Deadlines" zu haben. Und ich lernte, dass die für mich nur funktionieren, wenn es auch Menschen gibt, die kontrollieren, dass ich sie einhalte.
+Im Gegenzug biete ich an, eben jene "kleine Deadlines" für andere Menschen zu kontrollieren.
+
+Und weil wir dauernd kleine Deadlines brauchen: **wer mitmachen möchte, möge bis spätestens Freitag, 17.01.2020, 14.00 Uhr**  eine Mail an **gero [at] zweifeln.org** schreiben. Und dann gucke ich, wie viele wir sind und wann/wie wir uns treffen können und wie es weiter geht.
