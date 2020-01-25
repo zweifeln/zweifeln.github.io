@@ -1,7 +1,7 @@
 ---
 title: "Selbsthilfegruppe Prokrastination"
 layout: post
-categories: [moderation, personal]
+categories: [moderation, personal, ideas]
 ---
 Ich habe ein Prokrastinationsproblem.
 Einiges bekomme ich in meinem Leben ganz gut auf die Reihe und ein paar Dinge fallen mir super schwer und ich schiebe sie Monate und Jahre vor mir her. "Einfach machen" funktioniert "einfach" nicht und ich glaube, ich habe verstanden, warum und habe eine Idee, wie die Hilfe/Struktur aussehen könnte/sollte, damit ich die ewig prokrastinierten Projekte doch noch hin bekomme.
