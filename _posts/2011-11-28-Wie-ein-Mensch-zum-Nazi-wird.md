@@ -5,7 +5,9 @@ categories: [ideas, politics]
 ---
 Im <a href="http://www.kraftfuttermischwerk.de/blogg/?p=31379">Kraftfuttermischwerk habe ich den Arte-Film "This is England - Ende der Kindheit</a>" gefunden. Außdrückliche Filmempfehlung, um zu verstehen, wie Menschen zu Nazis werden. Dank depublizieren ist der nicht mehr online, aber es gibt noch den Trailer:
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/H0jkv2bRFgQ" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+	<iframe width="560" height="315" src="http://www.youtube.com/embed/H0jkv2bRFgQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Wer es mal schafft, den Film zu sehen, schaut ihn euch an!
 
