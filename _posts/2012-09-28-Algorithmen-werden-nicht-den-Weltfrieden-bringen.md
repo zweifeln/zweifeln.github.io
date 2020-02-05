@@ -8,7 +8,7 @@ es eigentlich gar nicht um Algorithmen geht, sondern um ein Menschenbild und ein
 Ich fand den Talk und vor allem die Diskussion im Nachgang echt gut.Darum gibt es den jetzt auch hier:
 
 <div class="video">
-<iframe width="420" height="315" src="http://www.youtube.com/embed/-L2aohi-168" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-L2aohi-168" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Ein ganz herzlichen Dank an die großartigen Menschen, die auf der OpenMind waren, und vor allem an all die Menschen, die die OpenMind durch vieeeeel Arbeit ermöglicht haben. Danke!
