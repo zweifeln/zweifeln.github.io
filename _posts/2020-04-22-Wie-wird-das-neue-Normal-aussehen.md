@@ -43,4 +43,4 @@ Wo und wie lange wird der Rechtsstaat sich halten? Wer wird ihn garantieren?
 
 Die Institutionen werden nicht verschwinden, aber werden sie noch entscheiden? Können? Wenn ja, was?  
 
-Wir leben in ungewöhnlichen Zeiten. Wie früher wird es nicht wieder werden. Aber wie wird das neue Normal aussehen?
+Wir leben in ungewöhnlichen Zeiten. Wie früher wird es nicht wieder werden. Aber wie wird das neue "Normal" aussehen?
