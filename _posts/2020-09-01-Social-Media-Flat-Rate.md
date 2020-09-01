@@ -5,7 +5,7 @@ categories: [ideas]
 ---
 <b>Review: <a href="https://log.dkarayiannis.eu/">dkr</a></b>
 
-### What if Social Media were paid on a flat rate model?
+### What if social media were paid on a flat rate model?
 
 The idea itself is somewhat old. When Twitter started ads years ago I occasionally heard people suggest to pay for an ad free version. Maybe 5€/month or something.
 There were porjects like <a href="https://en.wikipedia.org/wiki/App.net">app.net</a> that charged their users … and ultimately failed.  
