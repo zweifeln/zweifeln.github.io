@@ -1,7 +1,7 @@
 ---
 title: "Internetdepression"
 layout: post
-categories: personal
+categories: [personal, society]
 ---
 Es gibt seit einiger Zeit immer wieder Texte, die nahelegen, dass das Internet bzw. Social Media für Depressionen verantwortlich ist, bzw. diese befördert.
 

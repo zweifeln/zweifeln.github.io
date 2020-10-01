@@ -1,7 +1,7 @@
 ---
 title: "No Chat No Pic"
 layout: post
-categories: ideas
+categories: [ideas, sex, society]
 ---
 Als schwuler Mann habe ich früh angefangen das Internet als Datingplattform zu nutzen. Wie sonst komme ich auf dem Land mit anderen schwulen Männern in Kontakt?
 

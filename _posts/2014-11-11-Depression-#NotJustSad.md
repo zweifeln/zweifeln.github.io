@@ -1,7 +1,7 @@
 ---
 title: "Depression - #NotJustSad"
 layout: post
-categories: personal
+categories: [personal, society]
 ---
 [Triggerwarnung: Depression und Suizid]
 [Disclaimer: Ich bin kein Psychologe, sondern betroffen.]

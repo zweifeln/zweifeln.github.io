@@ -1,7 +1,7 @@
 ---
 title: "Leben, Politische Korrektheit und Depression"
 layout: post
-categories: personal
+categories: [personal, society]
 ---
 Ich hab <a href="http://zweifeln.org/2012/ich-lasse-das-mit-dem-aktivismus/">den Aktivismus aufgegeben</a>, um wieder mehr "echtes Leben" zu leben. Und die Entscheidung war gut - aber es reicht nicht.
 

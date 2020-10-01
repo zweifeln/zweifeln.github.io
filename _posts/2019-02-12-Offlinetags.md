@@ -1,7 +1,7 @@
 ---
 title: "Offline Tags"
 layout: post
-categories: photos
+categories: [photos, tech]
 ---
 
 The <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">GDPR</a> was set in place in May 2018 and since then it's quite a debate how it's still okay to take pictures at conferences.

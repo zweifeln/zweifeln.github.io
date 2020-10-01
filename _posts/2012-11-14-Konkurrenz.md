@@ -1,7 +1,7 @@
 ---
 title: "Konkurrenz"
 layout: post
-categories: ideas
+categories: [ideas, society]
 ---
 Vorweg: Vielen lieben Dank an <a href="https://twitter.com/_rya_">@_rya_</a> für das 2. Augenpaar!
 

@@ -1,7 +1,7 @@
 ---
 title: Social Media Flat Rate
 layout: post
-categories: [ideas]
+categories: [ideas, sex, tech]
 ---
 <b>Review: <a href="https://log.dkarayiannis.eu/">dkr</a></b>
 

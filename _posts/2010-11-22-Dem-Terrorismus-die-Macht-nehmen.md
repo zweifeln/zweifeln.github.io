@@ -1,7 +1,7 @@
 ---
 title: Dem Terrorismus die Macht nehmen
 layout: post
-categories: [ideas, politics]
+categories: [ideas, politics, society]
 ---
 Ich finde es erschreckend, wie in den Massenmedien die Angst vor dem Terror geschürt wird. Es ist absurd, was für Schreckens-Szenarien aufgebaut werden.
 

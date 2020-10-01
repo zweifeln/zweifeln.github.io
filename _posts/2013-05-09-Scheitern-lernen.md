@@ -1,7 +1,7 @@
 ---
 title: "Scheitern lernen"
 layout: post
-categories: ideas
+categories: [ideas, society]
 ---
 Den spannendsten Gedanken der re:publica gab mir <a href="https://twitter.com/regineheidorn">Regine Heidorn</a> mit. Den Gedanken des Scheiterns.
 Seit nun zwei Tagen geht mir der Gedanke nicht mehr aus dem Kopf, dass wir das Scheitern lernen müssen. Egal, ob "wir" gerade die Piraten sind, oder die Netzgemeinde. Ich glaube, scheitern sollten alle lernen. Dazu soll es im November auch <a href="http://odyssey-of-failure.info/">ein Barcamp</a> geben.

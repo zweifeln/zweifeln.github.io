@@ -1,7 +1,7 @@
 ---
 title: "Was bedeutet es noch einem Menschen zum Geburtstag zu gratulieren?"
 layout: post
-categories: ideas
+categories: [ideas, society]
 ---
 Immer wieder sehe ich Geburtstagsgrüße in meiner Timeline.
 

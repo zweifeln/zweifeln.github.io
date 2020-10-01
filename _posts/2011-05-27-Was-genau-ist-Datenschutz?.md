@@ -1,7 +1,7 @@
 ---
 title: "Was genau ist Datenschutz?"
 layout: post
-categories: [politics, science, ideas]
+categories: [politics, science, ideas, tech]
 ---
 Der Datenschutz hat sich lange vor der Privatsphären-Diskussion á la Facebook, Google und co gebildet. Er hat sich auch nicht aus Angst um die "Privatsphäre" gebildet, sondern aus Angst vor der technischen Fremdbestimmung. In den 80ern waren KI-Forscher (Künstliche Intelligenz) deutlich euphorischer als Heute und verkündeten, dass in 10 Jahren Computer das selbe könnte, wie Menschen. Es gab den <a href="http://de.wikipedia.org/wiki/Turing-Test">Turing-Test</a> und dieser sollte innerhalb von 10 Jahren bestanden werden. Heute, 30 Jahre später, hat es noch immer keine Maschine geschafft diesen Test zu bestehen.
 

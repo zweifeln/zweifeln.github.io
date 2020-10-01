@@ -1,7 +1,7 @@
 ---
 title: "These: Staaten werden durch Plattformen abgelöst"
 layout: post
-categories: [ideas, science]
+categories: [ideas, science, society]
 ---
 Ich denke immer mal wieder über die <a href="http://www.ctrl-verlust.net/glossar/plattformneutralitat/">Plattformneutralität</a>, wie von <a href="https://twitter.com/mspro">mspro</a> beschrieben, nach. Ich bin mir sehr unschlüssig, ob tatsächliche Neutralität der Plattform überhaupt möglich ist, aber zumindest das Konzept "Plattform" erscheint mir sehr schlüssig. Wir alle bewegen uns auf Plattformen. Server-Infrastruktur, die in den meisten fällen doch irgendwo gemietet ist (in meinem Fall bei den großartigen <a href="https://uberspace.de/">Ubernauten</a>), Betriebssysteme, soziale Netzwerke (Twitter, Facebook, G+, tumblr oder soup.io?) - aber auch im RL gibt es überall Plattformen. Wer ein neues Regal braucht, baut das nur sehr selten selbst zusammen, sondern schnell führt der Weg zu IKEA. Wir haben zunehmend weniger eigenen Autos, sondern sind Kunden einer Mietwagenfirma. Und wenn wir erst Kunde sind, wechseln wir nur noch sehr selten. Nicht zu vergessen die Bahn oder die verschiedenen Fluglinien (die sich ja selbst auch schon Allianzen geschmiedet haben), die es gibt.
 

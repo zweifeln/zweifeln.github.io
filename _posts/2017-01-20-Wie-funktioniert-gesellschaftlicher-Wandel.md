@@ -1,7 +1,7 @@
 ---
 title: "Wie funktioniert gesellschaftlicher Wandel?"
 layout: post
-categories: 
+categories: [society, politics, science]
 ---
 Ich denke sehr viel über diese Frage nach und mir dazu fundierte Theorie. Politik, Recht, Bildung und Medien haben da sicher alle irgendwas mit gesellschaftlichen Wandel zu tun, aber wie gut sind die Theorien, die es dazu gibt?
 Gibt es überhaupt fundierte Theorien, wie gesellschaftlicher Wandel funktioniert? (Mit so Phänomene wie dem <a href="https://de.wikipedia.org/wiki/Backlash">Backlash</a> oder dem Pyrrhussieg?)

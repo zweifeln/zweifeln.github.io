@@ -1,7 +1,7 @@
 ---
 title: Antiaufklärung
 layout: post
-categories: [ideas, politics]
+categories: [ideas, politics, society]
 ---
 
 Vor Monaten haben ich <a href="http://www.schaubuehne.de/de/produktionen/fear.html/ID_Vorstellung=1858&amp;m=168">das Theaterstück "Fear"</a> an der Berliner Schaubühne gesehen. <a href="http://www.tagesspiegel.de/kultur/schaubuehne-berlin-fear-siegt-ueber-die-angst-von-afd-und-pegida/12727778.html">Das war das Theaterstück, dass die AfD gerichtlich verbieten lassen wollte, damit aber gescheitert ist</a>.
@@ -20,11 +20,11 @@ Es gibt mehrere Ebenen, die sich hier aufmachen: Die konkret politisch-gesetzgeb
 
 Was ist mit der Aufklärung passiert? Eine Gesellschaft, die nicht auf Argumente hört, kann keine Demokratie sein.
 
-Wie lassen sich Menschen aufklären, dass es eine Methodik braucht, um Wissen zu generieren? Wie kann erklärt werden, dass genau das der Knackpunkt der Verschwörungstheorien ist? Das genau das der Unterschied zwischen Wissen und Meinen ist? Wissenschaft braucht eine Methodik um einen Gegenstand zu untersuchen um unabhängiges Wissen schaffen zu können - und Verschwörungstheorien haben keine Methodik. Jedes Gegenargument wird Teil der Verschwörung. Verschwörungstheoretiker*innen lassen keine Methodik zu - sondern ihre Meinung ist wichtiger als die Methodik. Und genau das ist das fundamentale Problem.
+Wie lassen sich Menschen aufklären, dass es eine Methodik braucht, um Wissen zu generieren? Wie kann erklärt werden, dass genau das der Knackpunkt der Verschwörungstheorien ist? Das genau das der Unterschied zwischen Wissen und Meinen ist? Wissenschaft braucht eine Methodik um einen Gegenstand zu untersuchen um unabhängiges Wissen schaffen zu können - und Verschwörungstheorien haben keine Methodik. Jedes Gegenargument wird Teil der Verschwörung. Verschwörungstheoretiker\*innen lassen keine Methodik zu - sondern ihre Meinung ist wichtiger als die Methodik. Und genau das ist das fundamentale Problem.
 
 Was aber lässt sich dagegen tun? Eine billige Forderung nach "mehr Bildung" klingt zwar super, löst das Problem aber nicht. Es ist ja nicht so, dass Rechtspopulismus nur von ungebildeten Menschen gewählt und gefördert wird.
 
-Ich will verstehen, wie Menschen Verschwörungstheorien glauben, aber der wissenschaftliche Methodik nicht. Trump wurde im Wahlkampf so massiv durchleuchtet und kritisiert. In meinem Verständnis <b>muss</b> jeder*m klar sein, dass er kein geeigneter Präsident sein kann. Warum aber, wird er trotzdem gewählt?
+Ich will verstehen, wie Menschen Verschwörungstheorien glauben, aber der wissenschaftliche Methodik nicht. Trump wurde im Wahlkampf so massiv durchleuchtet und kritisiert. In meinem Verständnis <b>muss</b> jeder\*m klar sein, dass er kein geeigneter Präsident sein kann. Warum aber, wird er trotzdem gewählt?
 
 Handeln diese Menschen in irgendeinem Sinne noch rational? Wenn ja, in welchem?
 Ich bin nicht schockiert über Trump, ich bin schockiert, dass er gewählt wird. Ich bin darüber schockiert, wie diese Bewegung der Antiaufklärung gegen alle rationalen Argumente immun zu sein scheint.

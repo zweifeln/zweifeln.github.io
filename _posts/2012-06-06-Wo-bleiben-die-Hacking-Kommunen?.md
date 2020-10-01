@@ -1,7 +1,7 @@
 ---
 title: "Wo bleiben die Hacking-Kommunen?"
 layout: post
-categories: [personal, ideas, art]
+categories: [personal, ideas, art, tech]
 ---
 Dieses Blog ist ein Stück weit ein offenes Tagebuch, in dem ich u.a. über meine Depression schreibe, vor allem aber über Strukturen, an denen ich versuche zu erkennen, wie das auf die Depression so einwirkt - und ich mache das öffentlich, weil ich davon ausgehe, dass es vielen Menschen ähnlich geht. Und zu sehen, dass es anderen Menschen ähnlich geht, bringt diese Menschen zusammen und manchmal können sie sich gegenseitig helfen.
 

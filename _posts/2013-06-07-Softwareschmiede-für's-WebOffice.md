@@ -1,7 +1,7 @@
 ---
 title: "Softwareschmiede für's WebOffice"
 layout: post
-categories: ideas
+categories: [ideas, tech]
 ---
 Ich mag freie Software. Und ich mag das Internet. Lange Zeit glaubte ich, dass sich im Internet immer freie Software durchsetzen würde, denn das Web als solches ist ja frei und offen. Irgendwann hielt ich inne und merkte: das Internet, wie ich es alltäglich nutze ist in weiten Teilen nicht offen. Viele Dienste, die ich täglich nutze sind nicht offen. Twitter, Facebook, YouTube und Google mit all seinen Diensten ist nicht offen und frei, wie ich es mir wünschen würde.
 Bei genauem Hinsehen ist mir dann aber auch aufgefallen, dass es für alle diese Dienste auch freie und offene Alternativen gibt. Zu fast jedem Dienst haben sich mal Idealisten hingesetzt und was offenes gebaut um nicht von den großen (quasi)Monopolisten abhängig zu sein. Und das ist einigermaßen großartig - aber leider auch nur einigermaßen.

@@ -1,7 +1,7 @@
 ---
 title: "Mailinglisten"
 layout: post
-categories: 
+categories: [tech, society]
 ---
 Mailinglisten sind das Urgestein des Internets - quasi die Mailboxen, die es schon in den 80er Jahren gab, bevor das World Wide Web überhaupt erfunden war (das kam dann erst mit Tim Berners-Lee 1990). Aus diesem Grunde kenne ganz viele Menschen, die sich schon lange im Netz bewegen die Mailinglisten so gut und nutzen sie auch gerne. Und für "Never change a running system" scheinen Mailinglisten das Paradebeispiel zu sein.
 

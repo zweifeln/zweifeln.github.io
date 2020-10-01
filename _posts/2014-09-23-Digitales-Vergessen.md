@@ -1,7 +1,7 @@
 ---
 title: "Digitales Vergessen"
 layout: post
-categories:
+categories: [society]
 ---
 
 Ich finde Vergessen doof. Dauernd vergesse ich irgendwas. Ganz besonders häufig vergesse ich Namen. Was bin ich glücklich, wenn ich auf meinem Telefon nachgucken kann, wie die Person denn heißt, wenn ich sie schon das fünfte mal treffe.

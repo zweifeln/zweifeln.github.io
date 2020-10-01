@@ -1,7 +1,7 @@
 ---
 title: Am Zweifeln zweifeln
 layout: post
-categories: personal
+categories: [personal]
 ---
 
 

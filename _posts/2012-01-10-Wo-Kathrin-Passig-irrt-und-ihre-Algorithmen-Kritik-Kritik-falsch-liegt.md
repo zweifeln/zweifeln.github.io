@@ -1,7 +1,7 @@
 ---
 Kathrin-"Wo-title: Passig irrt und ihre Algorithmen-Kritik-Kritik falsch liegt"
 layout: post
-categories: 
+categories: [tech, society]
 ---
 Ihr solltet ihren <a href="http://www.sueddeutsche.de/digital/zur-kritik-an-algorithmen-warum-wurde-mir-ausgerechnet-das-empfohlen-1.1253390">Artikel</a> lesen. Ich gebe Ihr recht. Quasi in allen Punkten. 
 

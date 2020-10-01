@@ -1,7 +1,7 @@
 ---
 title: Der Tag wird kommen.
 layout: post
-categories: personal
+categories: [personal, sex, society]
 ---
 "Du weiß nicht, wie das ist, wenn man immer eine Maske trägt."
 

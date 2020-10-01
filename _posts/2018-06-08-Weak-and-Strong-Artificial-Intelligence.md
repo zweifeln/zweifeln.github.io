@@ -1,7 +1,7 @@
 ---
 title: "Weak and Strong Artificial Intelligence"
 layout: post
-categories: [ai, science]
+categories: [tech, science]
 ---
 
 **Review: [Vinodh Ilangovan](https://twitter.com/I_Vinodh)**

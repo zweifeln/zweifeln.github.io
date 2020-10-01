@@ -1,7 +1,7 @@
 ---
 title: 'Wie wird das neue Normal aussehen?'
 layout: post
-categories: [politics, ideas]
+categories: [politics, ideas, society]
 ---
 Klimawandel, Massenbrände (Amazonas, Russland, Australien), Dürren, Urwaldrodungen, Heuschreckenplagen. 
 Wankende Weltmacht USA, weltweit erstarkende Demokratiefeinde, Internationale Organisationen sind schwach. (UNESCO und WHO bricht Finanzierung weg), EU praktisch unsichtbar.  

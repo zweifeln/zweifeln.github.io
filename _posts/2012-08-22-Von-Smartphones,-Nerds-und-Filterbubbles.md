@@ -1,7 +1,7 @@
 ---
 title: "Von Smartphones, Nerds und Filterbubbles"
 layout: post
-categories: 
+categories: [society, tech, science]
 ---
 Ich war 3 Wochen offline in einer Kleinstadt in Frankreich und habe mich so gut gefühlt, wie seit Monaten nicht mehr. Ich bin 2 Tage zurück in Berlin und fühle mich schlecht. Und ich glaube, es hat mit Umgangsformen zu tun, über die ich schon seit Monaten nachdenke, aber mir die Intensität erst jetzt bewusst wird. Der Text ist ad-hoc entstanden und möglicherweise habe ich viele Dinge dabei vergessen.
 

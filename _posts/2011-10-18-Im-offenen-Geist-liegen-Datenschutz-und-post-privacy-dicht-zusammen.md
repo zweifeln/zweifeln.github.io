@@ -1,7 +1,7 @@
 ---
 title: "im offenen Geist liegen Datenschutz und post-privacy dicht zusammen"
 layout: post
-categories:
+categories: [society, science]
 ---
 
 Auf der <a href="http://11.openmind-konferenz.de/">OpenMind</a>, einer von Piraten organisierten Konferenz gibt es die Zeit, die im Alltag so häufig fehlt: mal nachzudenken - über das, was wir so machen und wo es hin führt. Und, wo es hinführen soll mit dem Internet. Viele "Vertreter" der Spackeria habe ich dort getroffen - und nur wenige Datenschützer. Nun waren zeitglich die <a href="http://datenspuren.de/2011/">Datenspuren</a> vom CCC in Dresden, sodass es sich die Netzgemeinde möglicherweise ein bisschen aufgeteilt hat in "Spackos" und "Datenschützer". Nun war ich als "Datenschützer" auf der OpenMind und irgendwie gezwungen den Spackos zu zuhören. Das war gut.

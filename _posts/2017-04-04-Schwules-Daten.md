@@ -1,9 +1,9 @@
 ---
 title: "Schwules Daten"
 layout: post
-categories: personal
+categories: [personal, sex]
 ---
-Vor ein paar Tagen habe ich diesen Artikel <a href="http://highline.huffingtonpost.com/articles/en/gay-loneliness/">"Together Alone - The Epedemic of Gay Loneliness"</a> gelesen. Er ist komplex, vielschichtig, sehr lang (Lesezeit ~30 min) und sollte mit Vorsicht gelesen werden. Er ist voller Trigger (Suizid, Depression, Angstzustände, Einsamkeit, Verzweiflung, Drogenmissbrauch, …). Harter Stoff, aber auch die beste Analyse die ich je gelesen habe, warum Selbstmordrate und psychische Probleme bei schwulen Männern signifikant höher ist als bei heterosexuellen Männern.
+Vor ein paar Tagen habe ich diesen Artikel <a href="http://highline.huffingtonpost.com/articles/en/gay-loneliness/">"Together Alone - The Epedemic of Gay Loneliness"</a> gelesen. Er ist komplex, vielschichtig, sehr lang (Lesezeit \~30 min) und sollte mit Vorsicht gelesen werden. Er ist voller Trigger (Suizid, Depression, Angstzustände, Einsamkeit, Verzweiflung, Drogenmissbrauch, …). Harter Stoff, aber auch die beste Analyse die ich je gelesen habe, warum Selbstmordrate und psychische Probleme bei schwulen Männern signifikant höher ist als bei heterosexuellen Männern.
 
 In dem Artikel wird herausgearbeitet, dass diese Probleme nicht nur mit Homophobie und Mobbing erklärt werden können - denn selbst Männer die nie homophob angegriffen oder gemobbt wurden, immer ein unterstützendes Netzwerk hatten keine direkte Diskrimierung zu spüren bekamen, haben trotzdem überproportional viele psychische Probleme.
 

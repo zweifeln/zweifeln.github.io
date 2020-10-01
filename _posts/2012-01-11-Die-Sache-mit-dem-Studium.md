@@ -1,7 +1,7 @@
 ---
-Sache-"Die-title: mit dem Studium"
+title: "Die Sache mit dem Studium"
 layout: post
-categories: personal
+categories: [personal, science]
 ---
 Ein Unternehmen würde es "in eigener Sache" nennen. Ich nenne es "post-privacy". Es geht um mich.Lange wollte ich endlich studieren - dann endlich begann ich ein Philosophie-Studium in Freiburg und die ersten Zweifel kamen. Ja, Zweifel während des Studiums sind normal, sowie man immer mal wieder Zweifel bekommen wird - und muss. Wer nicht zweifelt, der denkt nicht.
 

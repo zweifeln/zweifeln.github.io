@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GmZ 000 - Nullnummer"
-category: [glaube, ideas]
+category: [glaube, ideas, society]
 ---
 
 Ich frage mich seit längerem, was genau Glaube und Religion ist … und habe beschlossen, mir das von Leuten erklären zu lassen, die sich damit auskennen.

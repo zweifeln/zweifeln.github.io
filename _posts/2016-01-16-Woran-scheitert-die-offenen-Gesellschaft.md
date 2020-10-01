@@ -1,7 +1,7 @@
 ---
 title: "Woran scheitert die offenen Gesellschaft?"
 layout: post
-categories: politics
+categories: [politics, society]
 ---
 Seit Monaten stelle ich mir die Frage, was eigentlich falsch läuft, in der europäischen Gesellschaft. Ich habe wirklich keine Ahnung und bin gänzlich ratlos, was da passiert.
 Ich verstehe nicht, wie eine so offene und freie Gesellschaft so abdriften kann; wie das Vertrauen in jegliche Institutionen so massiv verschwinden kann.

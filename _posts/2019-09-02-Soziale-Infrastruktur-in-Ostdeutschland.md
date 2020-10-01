@@ -1,7 +1,7 @@
 ---
 title: "Soziale Infrastruktur in Ostdeutschland"
 layout: post
-categories: [politics]
+categories: [politics, society]
 ---
 
 Bei den Landtagswahlen in Sachsen und Brandenburg hat die AfD Rekordergebnisse erzielt. Warum aber werden die Nazis in den Ostdeutschen Bundesländern gewählt?

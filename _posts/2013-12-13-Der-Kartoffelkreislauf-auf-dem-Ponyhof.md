@@ -1,7 +1,7 @@
 ---
 title: "Der Kartoffelkreislauf auf dem Ponyhof"
 layout: post
-categories: art
+categories: [art, society]
 ---
 Ein Ponyhof macht viel Arbeit. Ponies wollen ihren Freilauf, also bringt man sie auf die Weide. Auf der Weide fressen die Ponies viel Gras. Aber weil Ponies nie genug haben können, wollen sie immer auf eine andere Weide. Dann muss man sie auf eine andere Weide bringen. Manchmal machen sie sich auch alleine auf den Weg und landen plötzlich im Kartoffelfeld. Dann muss man sie schnell wieder einfangen, denn Kartoffeln sind sehr giftig für Ponies.
 

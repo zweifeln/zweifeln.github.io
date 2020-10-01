@@ -1,7 +1,7 @@
 ---
 title: "Netzneutralitätskampagne"
 layout: post
-categories: politics
+categories: [politics, tech]
 ---
 Ich mache Politik, weil ich eine Lebenswelt verbessern möchte. Meine Lebenswelt besteht zu einem großen Teil aus dem Netz, darum mache ich Netzpolitik. Zudem ist das Internet die krasseste Entwicklung, die ich mir vorstellen kann und es völlig absurd finde, sich gesellschaftlich nicht darum zu kümmern.
 
