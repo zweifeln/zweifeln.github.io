@@ -1,15 +1,28 @@
 <header>
-	<nav>
-		<div class="center">
+	<div class="center">
+		<nav>
 			<div class="nav">
 				<ul>
-					<li><a href="{{ site.url }}"><b>zweifeln.org</b></a></li>
-					<li><a href="{{ site.url }}/moderation">Moderation</a></li>
-					<li><a href="{{ site.url }}/ideas">Ideas</a></li>
-					<li><a href="{{ site.url }}/art">Art</a></li>
-					<li><a href="{{ site.url }}/personal">Personal</a></li>
+					<li><a href="{{ site.url}}/art">Art</a></li>
+					<li><a href="{{ site.url}}/ideas">Ideas</a></li>
+					<li><a href="{{ site.url}}/moderation">Moderation</a></li>
+					<li><a href="{{ site.url}}/personal">Personal</a></li>
+					<li><a href="{{ site.url}}/politics">Politics</a></li>
+					<li><a href="{{ site.url}}/science">Science</a></li>
+					<li><a href="{{ site.url}}/sex">Sex</a></li>
+					<li><a href="{{ site.url}}/society">Society</a></li>
+					<li><a href="{{ site.url}}/tech">Tech</a></li>
 				</ul>
 			</div>
+		</nav>
+		<div class="headline">
+			<h1><a href="{{ site.url }}">{{ site.title }}</a>{% if page.title %}<a href="{{ page.url }}">{{ page.url }}</a>{% endif %}</h1>
 		</div>
-	</nav>
+		<p class="center">
+			<a href="https://twitter.com/zweifeln/"><img src="{{ url }}/icon/grey/twitter.svg" style="width:20px;height:20px; padding: 10px;" id="twitter" alt="twitter" /></a>
+			<a href="https://instagram.com/zweifeln"><img src="{{ url }}/icon/grey/instagram.svg" style="width:20px;height:20px; padding: 10px;" id="instagram" alt="instagram" /></a>
+			<a href="https://www.linkedin.com/in/gero-nagel-45a104103/"><img src="{{ url }}/icon/grey/linkedin.svg" style="width:20px;height:20px; padding: 10px;" id="linkedin" alt="linkedin" /></a>
+			<a href="{{ url }}/feed.xml"><img src="{{ url }}/icon/grey/rss.svg" style="width:20px;height:20px; padding: 10px;" id="rss" alt="rss" /></a>
+		</p>
+	</div>
 </header>

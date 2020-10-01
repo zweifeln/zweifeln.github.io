@@ -1,10 +1,10 @@
 ---
 title: Social Media Flat Rate
 layout: post
+review: dkr
+review_url: https://log.dkarayiannis.eu/
 categories: [ideas, sex, tech]
 ---
-<b>Review: <a href="https://log.dkarayiannis.eu/">dkr</a></b>
-
 ### What if social media were paid on a flat rate model?
 
 The idea itself is somewhat old. When Twitter started ads years ago I occasionally heard people suggest to pay for an ad free version. Maybe 5€/month or something.

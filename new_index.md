@@ -1,19 +1,13 @@
 ---
-title: "zweifeln.org"
 layout: default
 ---
-
-<div class="center">
-	<h1>{{ page.title }}</h1>
-	<h2>Moderation - Ideen - Kunst</h2>
-</div>
 <hr>
 <section>
 <div class="img_right">
 	<img src="{{ site.url }}/images/gero-20180421.jpg">
 </div>
 <h3>Moin!</h3>
-Ich bin Gero und beschäftige mich mit Themen wie  <a href="{{ site.url}}/society.html">Gesellschaft</a>,  <a href="{{ site.url}}/tech.html">Technik</a>, <a href="{{ site.url}}/science.html">Wissenschaft</a>, <a href="{{ site.url}}/politics.html">Politik</a> und <a href="{{ site.url}}/sex.html">Sex</a>.<br />
+Ich bin Gero und beschäftige mich mit Themen wie  <a href="{{ site.url}}/society">Gesellschaft</a>,  <a href="{{ site.url}}/tech">Technik</a>, <a href="{{ site.url}}/science">Wissenschaft</a>, <a href="{{ site.url}}/politics">Politik</a> und <a href="{{ site.url}}/sex">Sex</a>.<br />
 
 <p>Ich finde viele Themen interessant. Ich bin Generalist. Das ist sowohl meine Schwäche als auch meine Stärke. Oft kann ich sehr unterschiediche Dinge zu etwas Neuem kombinieren - auch wenn ich mich in dem jeweiligen Fachgebiet vielleicht nicht perfekt auskenne.</p>
 

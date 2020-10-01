@@ -1,10 +1,14 @@
 <hr>
 <article>
-	<div class="grey">
-		<time>{{ post.date | date: "%Y-%m-%d" }}</time><br>
-	</div>
 	<div class="headline">
 		<a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+	</div>
+	<div class="grey">
+		<time>{{ post.date | date: "%Y-%m-%d" }}</time>
+		{% if post.review %}
+			- reviewed by <a href="{{ post.review_url }}">{{ post.review }}</a>
+		{% endif %}
+		<br>
 	</div>
 	{{ post.content }}
 	{% if post.slides %}

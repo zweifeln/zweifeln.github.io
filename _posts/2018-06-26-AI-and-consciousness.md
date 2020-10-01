@@ -1,12 +1,10 @@
 ---
 title: "AI and Consciousness"
 layout: post
+review: "Esther Weidauer"
+review_url: https://twitter.com/selfawaresoup
 categories: [science, tech]
 ---
-
-**Review: [Esther Weidauer](https://twitter.com/selfawaresoup)**
-
-
 Talking about artificial Intelligence, one may ask "Can computers think?"
 
 We (=humanity) don't really know how thinking works. There are lots of scientists working on it but it is complicated.
