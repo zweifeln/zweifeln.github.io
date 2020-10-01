@@ -1,79 +1,61 @@
 ---
-title: "Agentur für organisiertes Zweifeln"
+title: "zweifeln.org"
 layout: default
 ---
 
 <div class="center">
 	<h1>{{ page.title }}</h1>
-	<h2>Moderation und Beratung</h2>
-	<h3>Fragen. Zuhören. Denken. Lernen. Verstehen.</h3>
+	<h2>Moderation - Ideen - Kunst</h2>
 </div>
 <hr>
 <div class="img_right">
 	<img src="images/gero-20180421.jpg">
 </div>
 
-Zweifeln ist gut. Zweifeln ist der Motor der Aufklärung. Ohne Zweifel gibt es keinen Fortschritt. Wer die Wege des Lebens nicht austestet, wird keine neuen Wege entdecken. Wer nicht hinterfragt, kann die Welt nicht erkennen.  
-Ehrliches Zweifeln ist Ausdruck von Neugier und Interesse.
 
-<blockquote>"Wie kommt der Pups jetzt aus dem Zelt?"</blockquote>
-fragte ich meine Tante nach dem Pupsen im geschlossenen Zelt als ich 5 war.
+Moin! 
+Ich bin Gero und beschäftige mich mit Themen wie Kultur, Technik, Wissenschaft, Gesellschaft und Sex. 
 
-Das Fragenstellen, Zuhören, Lernen und Verstehen ist geblieben. Zweifeln.org wurde mein Blog. Mein Ort zum Nachdenken und Zweifeln. Zum Fragen stellen, beantworten und ausprobieren.
+Ich finde viele Themen interessant. Ich bin Generalist. Das ist sowohl meine Schwäche als auch meine Stärke. Oft kann ich sehr unterschiediche Dinge zu etwas Neuem kombinieren - auch wenn ich mich in dem jeweiligen Fachgebiet vielleicht nicht perfekt auskenne.
 
-In verschiedenen Branchen hatte ich sehr unterschiedliche Jobs und glaube, dass es den einen *richtigen* Job nicht für mich gibt - sondern ich immer wieder an mir, meinen Jobs und meinem Leben zweifel. Und ich glaube, darin liegt eine Chance, denn Zweifeln führt zu Verständnis. Nur wer die Welt versteht, kann sie nachhaltig verändern.
 
-Es ist die Kunst des Zweifelns, immer wieder zu hinterfragen und dabei nicht in den Zweifeln stecken zu bleiben, sondern die Fragen auch zu beantworten und dabei Verständnis und Fortschritt zu produzieren. Zu lernen.
+In dem breiten Themenspektrum biete ich drei Dinge an: Moderation, Ideen und Kunst.
 
-Die Kunst des Zweifelns, des strukturierten Nachdenkens, biete ich hier an. In zwei Varianten: Moderation und Beratun
 
-<h3><div class="center">Moderation</div></h3>
+## Moderation
 
-Ich stelle Fragen und sorge für gehaltvolle, sinnstiftende und faire Gespräche mit möglichst viel Verständnis.
-Das gilt für:
+Jedes Gespräch wird gelenkt - bewusst oder unbewusst. Jedes Gespräch führt wie eine Reise irgendwo hin. Manchmal fahren wir einfach durch die Gegend ohne Ziel und kommen doch irgendwo an. Wenn wir ein Ziel haben, wollen wir dieses Ziel erreichen. Dafür braucht es einen Plan und Entscheidungen: besser links abbiegen oder geradeaus fahren?
 
-<h4>Arbeitsbesprechungen</h4>
+Eine Moderation hilft dabei das Ziel in eine konkrete Streckenplanung umzusetzen. Sie ist dabei flexibel, denn lange Strecken beinhalten oft Unvorhergesehenes. Gesperrte Straßen, verspätete Bahnen oder Reifenpannen. Die Moderation kümmert sich dann um Ausweichrouten. Sie legt das nicht das Ziel fest sondern den Weg zum Ziel.
 
-Immer wieder erzeugen Besprechungen Konflikte, weil die Gesprächsleitung nicht gut ist. Zum Thema reden, sich kurz fassen, einander ausreden lassen, alles wichtige ansprechen, aber nicht verzetteln. Arbeitsbeprechungen gibt es häufig und doch laufen sie selten gut.
+Eine Moderation ist nicht in allen Gesprächen nötig - aber in vielen hilfreich, wie bei Workshops zu Organisationsentwicklung oder Prozessgestaltung. Oft ist eine Moderation auch hilfreich, wenn es darum geht, überhaupt erst ein konkretes Ziel zu bestimmen. Wenn Menschen mit verschiedenen Ansichten zusammenkommen und es darum geht, ein Ziel zu finden, dass möglichst viele Anliegen vereint.
+Meetings sind schlecht, wenn die Moderation schlecht ist. Häufig hilft es, wenn nicht die\*der Chef\*in die Moderation übernimmt, die auch das Ziel des Meetings festgelegt hat, sondern eine am Ziel unbeteiligt Person, die sich nur um die Gesprächsführung kümmert.
 
-<h4>Versammlungen</h4>
+Ich habe viele Erfahrungen als Moderator: von Versammlungsleitungen auf Mitgliedsversammlungen kleiner Vereine über die Leitung von Arbeitsbesprechungen und Workshops bis zur Leitung von Parteitagen der Piratenpartei. (Damals.)
 
-Mitgliedsversammlung, Eigentümer\*innenversammlung, Betriebsversammlung.  
-Versammlungen brauchen nicht nur eine inhaltlich gute Strukturierung, damit sie zügig und erfolgreich abgehalten werden, sondern müssen auch formalen Ansprüchen genügen, damit Beschlüsse rechtswirksam sind.
 
-<h4>Öffentliche Veranstaltungen</h4>
+## Ideen
 
-Podiumsdiskussionen, Fachgespräche, politische Debatten.  
-Gute Gespräche brauchen spannende Menschen, die Interessantes erzählen. Und sie brauchen gute Fragen, damit diese spannende Menschen auch erzählen, was interessant - und für das jeweilige Publikum - verständlich ist.
+Viele Probleme brauchen Lösungen. Oft grübeln wir Wochen und Monate über Probleme ohne eine gute Lösung zu finden. Manchmal kommen uns die Lösungen von selbst aber oft kommen die besten Lösungen durch Ideen von anderen Menschen, wenn wir ihnen von unserem Problem erzählen. Manchmal kommen wir auch selbst auf die Lösung, während wir anderen Menschen von dem jeweiligen Problem erzählen.
+Menschen denken unterschiedlich und stellen andere Fragen, worüber wir auf andere Aspekte und andere Lösungen kommen.
 
-<h3><div class="center">Beratung</div></h3>
+Sehr oft hilft es, das eigene Problem einer Person zu erzählen, die einen anderen Erfahrungsschatz hat. Die Analogien in andere Bereiche sieht oder Überlappungen zu Themen, die einem selbst womöglich noch gar nicht aufgefallen sind. Das ist die große Tugend von Generalist\*innen. Sie kennen sich in vielen Gebieten aus und können häufig völlig neue Lösungsideen anstoßen.
 
-Ich bin Generalist und Rätsellöser. In mir kommt Wissen aus sehr unterschiedlichen Bereichen zusammen und entsprechend betrachte ich ein Problem aus vielen Perspektiven und finde oft aus anderen Perspektiven auch andere Lösungen.
+Immer wieder höre ich, dass ich gute Ideen habe. Immer wieder sehe ich Phänomene in unterschiedlichen Lebensbereichen und habe Ideen für neue Produkte, Dienste, Strategien oder politische Lösungen. Manchmal bin ich gerne bei der Umsetzung dieser Ideen beteiligt, manchmal mag ich nur Ideengeber sein.
+Wenn es keinen konkreten Adressaten für eine Ideen gibt, blogge ich sie oft. Vielleicht findet sich ja eine Person oder Organisation, die meine Idee umsetzen will.
 
-Genau so sehe ich in vielen "Lösungen" Probleme, die erst mit etwas Zeitverzug für manch andere offenkundig werden. Ich kann davor bewahren, Fehler zu machen, weil ich die Probleme nicht nur sehe, sondern sie auch verständlich erklären kann, sodass Fehlinvestitionen oft vermieden werden können.
+Gerne höre ich mir auch Probleme an. Vielleicht habe ich ja eine Lösungsidee.
 
-Gerne coache ich auch, wie Besprechungen oder Versammlungen gut funktionieren. Besprechungen und Versammlungen effektiv halten ist essenziell für eine erfolgreiche Organisationen.
+
+## Kunst
+
+Kunst ist ein Begriff, der sich nicht allgemein definieren lässt. Für mich ist Kunst, was mich zum Nachdenken bringt. Was Überzeugungen und Meinungen in Frage stellt und das eigene Weltbild verändert und vergrößert.
+
+Ich mag es Menschen zu irritieren und zum Nachdenken zu bringen. Für mich ist Kunst nicht, was möglichst laut oder krass ist - sondern was darüber hinaus eine Botschaft mitteilt, die vorher nicht gesehen wurde. Kunst ist für mich das bewusste Erschaffen von Geschichten, die Menschen bewegen. Kunst kann in allen Formen existieren. Kunst ist, was Menschen als Kunst verstehen.
+Präferiert nutze ich dafür Texte, Fotografie und Schauspiel.
+
 
 <div class="center">
 	<b>Pick my brain!</b><br />
 	<a href="mailto:gero@zweifeln.org">gero@zweifeln.org</a>
 </div>
-
-Preise richten sich an den Umfang und Aufwand der jeweiligen Anfrage - als Richtwert arbeite ich für 75€/Stunde.
-
-
-<!--
-
-Wer bin ich und was für Erfahrungen bringe ich mit?
-
-Studium: Philosophie, Kognitionswissenschaft, Mathematik, Informatik, Chemie, Kulturwissenschaften in Freiburg/Breisgau, Berlin (HU und TU), Hagen (Fernuni) und Valencia (Spanien).
-Arbeitserfahrungen: KI-Startup (Tognos, KI Bundesverband), Sexarbeit, Netz- und Digitalpolitik: AlgorithmWatch, D64, CCC, DigitalCourage, IGF-D, Cyborgs e.V., Selbstständiger Webentwicklung, Schauspiel im c-atre, Konferenz-Organisation, Landesvorstand der Berliner Piratenpartei, Praktikum bei B90/Grüne, Demo-Organisation, Fahrradkurier, Straßen- und Türwerbung, Kellner.
-Aufgewachsen auf einen Bauernhof in Sachsen-Anhalt. 
-
-(Links, soweit vorhanden?)
-
-Und sonst: ADHD, Depressionen, Anxieties, Therapie. Queer. Fotografiert manchmal gerne Menschen und treibt viel Sport.
-
-
-Lernt gerne Sprachen: Deutsch, Englisch, Französisch, Spanisch, Mandarin (Chinesisch).
--->
