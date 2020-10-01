@@ -9,7 +9,7 @@ layout: default
 </div>
 <hr>
 <div class="img_right">
-	<img src="images/gero-20180421.jpg">
+	<img src="{{ site.url }}/images/gero-20180421.jpg">
 </div>
 
 
