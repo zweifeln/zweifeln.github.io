@@ -13,7 +13,7 @@ layout: default
 	<img src="{{ site.url }}/images/gero-20180421.jpg">
 </div>
 <h3>Moin!</h3>
-Ich bin Gero und beschäftige mich mit Themen wie Gesellschaft, Technik,  <a href="{{ site.url}}/science.html">Wissenschaft</a>, <a href="{{ site.url}}/politics.html">Politik</a> und  <a href="{{ site.url}}/sex.html">Sex.<br />
+Ich bin Gero und beschäftige mich mit Themen wie  <a href="{{ site.url}}/society.html">Gesellschaft</a>,  <a href="{{ site.url}}/tech.html">Technik</a>, <a href="{{ site.url}}/science.html">Wissenschaft</a>, <a href="{{ site.url}}/politics.html">Politik</a> und <a href="{{ site.url}}/sex.html">Sex.<br />
 
 <p>Ich finde viele Themen interessant. Ich bin Generalist. Das ist sowohl meine Schwäche als auch meine Stärke. Oft kann ich sehr unterschiediche Dinge zu etwas Neuem kombinieren - auch wenn ich mich in dem jeweiligen Fachgebiet vielleicht nicht perfekt auskenne.</p>
 
@@ -29,7 +29,7 @@ Eine Moderation hilft dabei das Ziel in eine konkrete Streckenplanung umzusetzen
 Eine Moderation ist nicht in allen Gesprächen nötig - aber in vielen hilfreich, wie bei Workshops zu Organisationsentwicklung oder Prozessgestaltung. Oft ist eine Moderation auch hilfreich, wenn es darum geht, überhaupt erst ein konkretes Ziel zu bestimmen. Wenn Menschen mit verschiedenen Ansichten zusammenkommen und es darum geht, ein Ziel zu finden, dass möglichst viele Anliegen vereint.  
 Meetings sind schlecht, wenn die Moderation schlecht ist. Häufig hilft es, wenn nicht die\*der Chef\*in die Moderation übernimmt, die auch das Ziel des Meetings festgelegt hat, sondern eine am Ziel unbeteiligt Person, die sich nur um die Gesprächsführung kümmert.
 
-Ich habe viele Erfahrungen als Moderator: von Versammlungsleitungen auf Mitgliedsversammlungen kleiner Vereine über die Leitung von Arbeitsbesprechungen und Workshops bis zur Leitung von Parteitagen der Piratenpartei. (Damals.)
+Ich habe einige Erfahrungen als Moderator: von Versammlungsleitungen auf Mitgliedsversammlungen kleiner Vereine über die Leitung von Arbeitsbesprechungen und Workshops bis zur Leitung von Parteitagen der Piratenpartei. (Damals.)
 
 
 ### Ideen
