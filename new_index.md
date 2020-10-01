@@ -2,7 +2,7 @@
 layout: default
 ---
 <hr>
-<section>
+<div class="clearfix">
 <div class="img_right">
 	<img src="{{ site.url }}/images/gero-20180421.jpg">
 </div>
@@ -12,7 +12,7 @@ Ich bin Gero und beschäftige mich mit Themen wie  <a href="{{ site.url}}/societ
 <p>Ich finde viele Themen interessant. Ich bin Generalist. Das ist sowohl meine Schwäche als auch meine Stärke. Oft kann ich sehr unterschiediche Dinge zu etwas Neuem kombinieren - auch wenn ich mich in dem jeweiligen Fachgebiet vielleicht nicht perfekt auskenne.</p>
 
 <p>In dem breiten Themenspektrum biete ich drei Dinge an: Moderation, Ideen und Kunst.</p>
-</section>
+</div>
 
 ### Moderation
 

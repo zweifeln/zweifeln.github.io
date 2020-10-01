@@ -64,15 +64,13 @@ a:visited {
 	color: #777;
 }
 
-.categories {
-	text-align: right;
-	font-size: 120%;
-}
-
 .center {
 	text-align: center;
 }
 
+.clearfix {
+	overflow: auto;
+}
 
 .img {
 	float: none;
