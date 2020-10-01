@@ -10,5 +10,18 @@ markdown: kramdown
 # plugins_dir: 
 # - jekyll-feed
 # - jekyll-paginate
-#paginate: 10
-#paginate_path: "/page/:num/"
+# paginate: 10
+# paginate_path: "/page/:num/"
+# collections:
+categories:
+  - art
+  - ideas
+  - moderation
+  - personal
+  - photos
+  - politics
+  - rant
+  - science
+  - sex
+  - society
+  - tech

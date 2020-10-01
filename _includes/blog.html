@@ -8,6 +8,11 @@
 		{% if post.review %}
 			- reviewed by <a href="{{ post.review_url }}">{{ post.review }}</a>
 		{% endif %}
+		{% if post.categories %} 
+			- in: {% for category in post.categories %}
+			<a href="{{ site.url}}/{{ category }}">{{ category }}</a>
+			{% endfor %}
+		{% endif %}
 		<br>
 	</div>
 	{{ post.content }}

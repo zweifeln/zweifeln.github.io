@@ -5,33 +5,38 @@
 		{% include header.html %}
 		&nbsp;
 		<article>
-			<div class="grey">
-				<time>{{ page.date | date: "%Y-%m-%d" }}</time><br>
-				{% if page.author %} written by {{ page.author }}{% endif %}
-			</div>
 			<div class="headline">
-				<a href="{{ page.url }}">
-					<h1>{{ page.title }}</h1>
-				</a>
+				<a href="{{ page.url }}"><h2>{{ page.title }}</h2></a>
 			</div>
-		{{ content }}
-		{% if page.slides %}
-			{% assign slides_folder = page.slides | prepend: "/images/" %}
-			<div class="slideshow-container">
-			{% for file in site.static_files %}
-				{% if file.path contains slides_folder %}
-					{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
-						<div class="slideshow-image">
-							<img src="{{ file.path }}" />
-						</div>
-					{% endif %}
+			<div class="grey">
+				<time>{{ page.date | date: "%Y-%m-%d" }}</time>
+				{% if page.review %}
+					- reviewed by <a href="{{ page.review_url }}">{{ page.review }}</a>
 				{% endif %}
-			{% endfor %} 
-			<a class="prev">&#10094;</a>
-			<a class="next">&#10095;</a>
+				{% if page.categories %} 
+					- in: {% for category in page.categories %}
+					<a href="{{ site.url}}/{{ category }}">{{ category }}</a>
+					{% endfor %}
+				{% endif %}
+				<br>
 			</div>
-    	{% endif %}
-    	<hr>
+			{{ content }}
+			{% if page.slides %}
+				{% assign slides_folder = page.slides | prepend: "/images/" %}
+				<div class="slideshow-container">
+				{% for file in site.static_files %}
+					{% if file.path contains slides_folder %}
+						{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
+							<div class="slideshow-image">
+								<img src="{{ file.path }}" />
+							</div>
+						{% endif %}
+					{% endif %}
+				{% endfor %} 
+				<a class="prev">&#10094;</a>
+				<a class="next">&#10095;</a>
+				</div>
+	    	{% endif %}
 		</article>
 		{% include footer.html %}
 	</body>
