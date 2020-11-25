@@ -12,7 +12,7 @@ Bei Online-Konferenzen und Vorträgen funktionieren Pausengespräche allenfalls 
 
 Ich glaube, das kann online durchaus funktionieren und möchte das gerne austesten.
 
-Am Freitag, **27.11.2020 um 19.00 Uhr** via Big Blue Button: https://bbb.linxx.net/b/zwe-poe-wnt-syi
+Am Freitag, **27.11.2020 um 19.00 Uhr** via [Big Blue Button](https://bbb.linxx.net/b/zwe-poe-wnt-syi)
 
 Ausgangspunkt zum gemeinsamen Abschweifen ist die Frage "Schafft Sprache Realität?".  
 Ich werde anfangs ein bisschen darüber reden, was ich zu dem Thema gelesen habe und dann gucken, wo sich das Gespräch hin entwickelt.
