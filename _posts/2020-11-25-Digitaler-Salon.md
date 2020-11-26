@@ -5,6 +5,14 @@ language: de
 categories: [ideas, moderation]
 ---
 
+<div class="img_right">
+	<img src="/images/posts/OM-Pause.jpeg"><br />
+<div style="text-align: right">
+	Pausengespräche auf der openmind 2015.<br />
+	Foto: <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">CC0</a> by <a href="https://twitter.com/insideX">@insideX</a>
+</div>
+</div>
+
 Mit Pandemie und Social Distancing, fehlen mir Gespräche. Mir fehlen Anlässe Menschen zu treffen, die nicht im engsten Freundeskreis sind und an die ich keine konkrete Anfrage habe. Mir fehlt der Anlass, sie "casual" zu treffen und in entspannter Atmosphäre vom einem Thema aufs nächste zu kommen.  
 Mir fehlen Konferenzen, denn Konferenzen sind nicht in erster Linie für Vorträge oder Workshops da - sondern für Pausengespräche. Vorträge und Workshops sind oft eher der Vorwand, um zu einer Konferenz zu gehen - und der Ausgangspunkt für interessante Gespräche. Es werden Bekannte wieder getroffen und neue Menschen kennengelernt.
 
