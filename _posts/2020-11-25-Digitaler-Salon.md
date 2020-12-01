@@ -32,3 +32,7 @@ Die Veranstaltung soll ein Safe Space für Frauen, LGBTIQ und BIPoC sein. Rassis
 Ich bin sehr gespannt, ob und wie gut das funktionieren wird. Und ob es eine Fortsetzung geben wird - und wenn ja, in welchem Rahmen. Aber das wird sich zeigen.
 
 Freundliche Menschen dürfen gerne mitgebracht werden.
+
+**update 2020-12-01**
+
+Am Freitag haben wir beschlossen, dass wir den digitalen Salon bis auf weiteres wöchentlich veranstalten - immer freitags, 19.00 Uhr. Beim nächsten mal wird es einen kurzen Input zu "Häusern" geben - und dann wieder abgeschweift, wo immer uns die Assoziationen hintreiben.
